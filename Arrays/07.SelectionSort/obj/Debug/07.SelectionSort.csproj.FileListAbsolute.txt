@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

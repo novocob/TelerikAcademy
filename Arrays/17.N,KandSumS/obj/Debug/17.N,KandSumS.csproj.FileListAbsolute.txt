@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\17.N,KandSumS\bin\Debug\17.N,KandSumS.exe.config
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\17.N,KandSumS\bin\Debug\17.N,KandSumS.exe
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\17.N,KandSumS\bin\Debug\17.N,KandSumS.pdb
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\17.N,KandSumS\obj\Debug\17.N,KandSumS.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\17.N,KandSumS\obj\Debug\17.N,KandSumS.exe
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\17.N,KandSumS\obj\Debug\17.N,KandSumS.pdb

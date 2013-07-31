@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\10.SumS\bin\Debug\10.SumS.exe.config
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\10.SumS\bin\Debug\10.SumS.exe
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\10.SumS\bin\Debug\10.SumS.pdb
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\10.SumS\obj\Debug\10.SumS.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\10.SumS\obj\Debug\10.SumS.exe
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\10.SumS\obj\Debug\10.SumS.pdb

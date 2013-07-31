@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\19.Permutations\bin\Debug\19.Permutations.exe.config
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\19.Permutations\bin\Debug\19.Permutations.exe
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\19.Permutations\bin\Debug\19.Permutations.pdb
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\19.Permutations\obj\Debug\19.Permutations.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\19.Permutations\obj\Debug\19.Permutations.exe
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\19.Permutations\obj\Debug\19.Permutations.pdb

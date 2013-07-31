@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\01.IndexMultiplideBy5\bin\Debug\01.IndexMultiplideBy5.exe.config
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\01.IndexMultiplideBy5\bin\Debug\01.IndexMultiplideBy5.exe
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\01.IndexMultiplideBy5\bin\Debug\01.IndexMultiplideBy5.pdb
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\01.IndexMultiplideBy5\obj\Debug\01.IndexMultiplideBy5.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\01.IndexMultiplideBy5\obj\Debug\01.IndexMultiplideBy5.exe
+F:\Telerik\CSharpPart2\HomeWork1\Arrays\01.IndexMultiplideBy5\obj\Debug\01.IndexMultiplideBy5.pdb
