@@ -1,4 +1,0 @@
-F:\Telerik\HomeWork1\1. IntroductionToProgramming\8. SquareOf12345\obj\x86\Debug\_8.SquareOf12345.exe
-F:\Telerik\HomeWork1\1. IntroductionToProgramming\8. SquareOf12345\obj\x86\Debug\_8.SquareOf12345.pdb
-F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\8. SquareOf12345\obj\x86\Debug\_8.SquareOf12345.exe
-F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\8. SquareOf12345\obj\x86\Debug\_8.SquareOf12345.pdb

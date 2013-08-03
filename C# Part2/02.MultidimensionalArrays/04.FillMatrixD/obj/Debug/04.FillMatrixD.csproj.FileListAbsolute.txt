@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\04.FillMatrixD\bin\Debug\04.FillMatrixD.exe.config
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\04.FillMatrixD\bin\Debug\04.FillMatrixD.exe
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\04.FillMatrixD\bin\Debug\04.FillMatrixD.pdb
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\04.FillMatrixD\obj\Debug\04.FillMatrixD.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\04.FillMatrixD\obj\Debug\04.FillMatrixD.exe
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\04.FillMatrixD\obj\Debug\04.FillMatrixD.pdb

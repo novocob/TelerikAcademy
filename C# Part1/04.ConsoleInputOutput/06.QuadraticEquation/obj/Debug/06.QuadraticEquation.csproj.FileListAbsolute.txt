@@ -1,5 +1,0 @@
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

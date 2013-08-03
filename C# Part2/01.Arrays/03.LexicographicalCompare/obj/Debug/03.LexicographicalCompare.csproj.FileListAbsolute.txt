@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\03.LexicographicalCompare\bin\Debug\03.LexicographicalCompare.exe.config
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\03.LexicographicalCompare\bin\Debug\03.LexicographicalCompare.exe
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\03.LexicographicalCompare\bin\Debug\03.LexicographicalCompare.pdb
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\03.LexicographicalCompare\obj\Debug\03.LexicographicalCompare.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\03.LexicographicalCompare\obj\Debug\03.LexicographicalCompare.exe
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\03.LexicographicalCompare\obj\Debug\03.LexicographicalCompare.pdb

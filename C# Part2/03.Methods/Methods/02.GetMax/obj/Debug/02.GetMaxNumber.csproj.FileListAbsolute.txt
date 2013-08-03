@@ -1,5 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\02.GetMax\bin\Debug\02.GetMax.exe.config
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\02.GetMax\bin\Debug\02.GetMax.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\02.GetMax\bin\Debug\02.GetMax.pdb
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\02.GetMax\obj\Debug\02.GetMax.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\02.GetMax\obj\Debug\02.GetMax.pdb

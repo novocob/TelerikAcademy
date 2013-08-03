@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\14.StringQuickSort\bin\Debug\14.StringQuickSort.exe.config
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\14.StringQuickSort\bin\Debug\14.StringQuickSort.exe
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\14.StringQuickSort\bin\Debug\14.StringQuickSort.pdb
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\14.StringQuickSort\obj\Debug\14.StringQuickSort.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\14.StringQuickSort\obj\Debug\14.StringQuickSort.exe
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\14.StringQuickSort\obj\Debug\14.StringQuickSort.pdb

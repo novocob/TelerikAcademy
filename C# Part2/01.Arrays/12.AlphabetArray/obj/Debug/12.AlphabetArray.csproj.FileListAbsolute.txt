@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\12.AlphabetArray\bin\Debug\12.AlphabetArray.exe.config
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\12.AlphabetArray\bin\Debug\12.AlphabetArray.exe
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\12.AlphabetArray\bin\Debug\12.AlphabetArray.pdb
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\12.AlphabetArray\obj\Debug\12.AlphabetArray.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\12.AlphabetArray\obj\Debug\12.AlphabetArray.exe
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\12.AlphabetArray\obj\Debug\12.AlphabetArray.pdb

@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\13.ThreeTasks\bin\Debug\13.ThreeTasks.exe.config
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\13.ThreeTasks\bin\Debug\13.ThreeTasks.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\13.ThreeTasks\bin\Debug\13.ThreeTasks.pdb
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\13.ThreeTasks\obj\Debug\13.ThreeTasks.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\13.ThreeTasks\obj\Debug\13.ThreeTasks.pdb
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\13.ThreeTasks\obj\Debug\13.ThreeTasks.csprojResolveAssemblyReference.cache

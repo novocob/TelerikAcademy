@@ -1,5 +1,0 @@
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe.config
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.pdb
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.exe
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.pdb

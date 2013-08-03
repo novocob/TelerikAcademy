@@ -1,5 +1,0 @@
-F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\4. PrintNumbres\obj\x86\Debug\_4.PrintNumbres.exe
-F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\4. PrintNumbres\obj\x86\Debug\_4.PrintNumbres.pdb
-F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\4. PrintNumbres\bin\Debug\_4.PrintNumbres.exe
-F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\4. PrintNumbres\bin\Debug\_4.PrintNumbres.pdb
-F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\4. PrintNumbres\obj\x86\Debug\04. PrintNumbers.csprojResolveAssemblyReference.cache

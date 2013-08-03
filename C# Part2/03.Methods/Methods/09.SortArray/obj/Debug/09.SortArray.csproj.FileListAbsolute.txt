@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\09.SortArray\bin\Debug\09.SortArray.exe.config
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\09.SortArray\bin\Debug\09.SortArray.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\09.SortArray\bin\Debug\09.SortArray.pdb
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\09.SortArray\obj\Debug\09.SortArray.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\09.SortArray\obj\Debug\09.SortArray.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\09.SortArray\obj\Debug\09.SortArray.pdb

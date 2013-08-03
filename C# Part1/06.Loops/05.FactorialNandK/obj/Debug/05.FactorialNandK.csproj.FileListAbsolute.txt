@@ -1,5 +1,0 @@
-F:\Telerik\HomeWork6\Loops\05.FactorialNandK\bin\Debug\05.FactorialNandK.exe.config
-F:\Telerik\HomeWork6\Loops\05.FactorialNandK\bin\Debug\05.FactorialNandK.exe
-F:\Telerik\HomeWork6\Loops\05.FactorialNandK\bin\Debug\05.FactorialNandK.pdb
-F:\Telerik\HomeWork6\Loops\05.FactorialNandK\obj\Debug\05.FactorialNandK.exe
-F:\Telerik\HomeWork6\Loops\05.FactorialNandK\obj\Debug\05.FactorialNandK.pdb

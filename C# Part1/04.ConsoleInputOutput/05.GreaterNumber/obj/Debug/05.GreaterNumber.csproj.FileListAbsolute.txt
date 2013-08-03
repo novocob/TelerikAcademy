@@ -1,1 +1,0 @@
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\05.GreaterNumber\bin\Debug\05.GreaterNumber.exe.config

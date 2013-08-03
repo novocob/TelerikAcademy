@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork5\ConditionalStatements\01.ChangeValues\bin\Debug\01.ChangeValues.exe.config
-F:\Telerik\HomeWork5\ConditionalStatements\01.ChangeValues\obj\Debug\01.ChangeValues.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork5\ConditionalStatements\01.ChangeValues\bin\Debug\01.ChangeValues.exe
-F:\Telerik\HomeWork5\ConditionalStatements\01.ChangeValues\bin\Debug\01.ChangeValues.pdb
-F:\Telerik\HomeWork5\ConditionalStatements\01.ChangeValues\obj\Debug\01.ChangeValues.exe
-F:\Telerik\HomeWork5\ConditionalStatements\01.ChangeValues\obj\Debug\01.ChangeValues.pdb

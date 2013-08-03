@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\06.NandK\bin\Debug\06.NandK.exe.config
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\06.NandK\bin\Debug\06.NandK.exe
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\06.NandK\bin\Debug\06.NandK.pdb
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\06.NandK\obj\Debug\06.NandK.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\06.NandK\obj\Debug\06.NandK.exe
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\06.NandK\obj\Debug\06.NandK.pdb

@@ -1,7 +1,0 @@
-F:\Telerik\HomeWork1\1. IntroductionToProgramming\7. PrintDateTime\obj\x86\Debug\_7.PrintDateTime.exe
-F:\Telerik\HomeWork1\1. IntroductionToProgramming\7. PrintDateTime\obj\x86\Debug\_7.PrintDateTime.pdb
-F:\Telerik\HomeWork1\1. IntroductionToProgramming\7. PrintDateTime\bin\Debug\_7.PrintDateTime.exe
-F:\Telerik\HomeWork1\1. IntroductionToProgramming\7. PrintDateTime\bin\Debug\_7.PrintDateTime.pdb
-F:\Telerik\HomeWork1\1. IntroductionToProgramming\7. PrintDateTime\obj\x86\Debug\07. PrintDateTime.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\7. PrintDateTime\obj\x86\Debug\_7.PrintDateTime.exe
-F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\7. PrintDateTime\obj\x86\Debug\_7.PrintDateTime.pdb

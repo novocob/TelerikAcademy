@@ -1,6 +1,0 @@
-E:\Telerik\HomeWork1\1. IntroductionToProgramming\2. HelloCSharp\obj\x86\Debug\_2.HelloCSharp.exe
-E:\Telerik\HomeWork1\1. IntroductionToProgramming\2. HelloCSharp\obj\x86\Debug\_2.HelloCSharp.pdb
-F:\Telerik\HomeWork1\1. IntroductionToProgramming\2. HelloCSharp\obj\x86\Debug\_2.HelloCSharp.exe
-F:\Telerik\HomeWork1\1. IntroductionToProgramming\2. HelloCSharp\obj\x86\Debug\_2.HelloCSharp.pdb
-F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\2. HelloCSharp\obj\x86\Debug\_2.HelloCSharp.exe
-F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\2. HelloCSharp\obj\x86\Debug\_2.HelloCSharp.pdb

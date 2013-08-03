@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork6\Loops\04.N!devidedByK!\bin\Debug\04.N!devidedByK!.exe.config
-F:\Telerik\HomeWork6\Loops\04.N!devidedByK!\bin\Debug\04.N!devidedByK!.exe
-F:\Telerik\HomeWork6\Loops\04.N!devidedByK!\bin\Debug\04.N!devidedByK!.pdb
-F:\Telerik\HomeWork6\Loops\04.N!devidedByK!\obj\Debug\04.NdevidedByK.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork6\Loops\04.N!devidedByK!\obj\Debug\04.N!devidedByK!.exe
-F:\Telerik\HomeWork6\Loops\04.N!devidedByK!\obj\Debug\04.N!devidedByK!.pdb

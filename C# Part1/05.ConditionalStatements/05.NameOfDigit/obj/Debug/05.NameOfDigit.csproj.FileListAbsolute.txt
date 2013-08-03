@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork5\ConditionalStatements\05.NameOfDigit\bin\Debug\05.NameOfDigit.exe.config
-F:\Telerik\HomeWork5\ConditionalStatements\05.NameOfDigit\bin\Debug\05.NameOfDigit.exe
-F:\Telerik\HomeWork5\ConditionalStatements\05.NameOfDigit\bin\Debug\05.NameOfDigit.pdb
-F:\Telerik\HomeWork5\ConditionalStatements\05.NameOfDigit\obj\Debug\05.NameOfDigit.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork5\ConditionalStatements\05.NameOfDigit\obj\Debug\05.NameOfDigit.exe
-F:\Telerik\HomeWork5\ConditionalStatements\05.NameOfDigit\obj\Debug\05.NameOfDigit.pdb

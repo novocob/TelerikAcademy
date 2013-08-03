@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\02.VariablesFloatAndDouble\bin\Debug\02.VariablesFloatAndDouble.exe.config
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\02.VariablesFloatAndDouble\bin\Debug\02.VariablesFloatAndDouble.exe
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\02.VariablesFloatAndDouble\bin\Debug\02.VariablesFloatAndDouble.pdb
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\02.VariablesFloatAndDouble\obj\Debug\02.VariablesFloatAndDouble.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\02.VariablesFloatAndDouble\obj\Debug\02.VariablesFloatAndDouble.exe
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\02.VariablesFloatAndDouble\obj\Debug\02.VariablesFloatAndDouble.pdb

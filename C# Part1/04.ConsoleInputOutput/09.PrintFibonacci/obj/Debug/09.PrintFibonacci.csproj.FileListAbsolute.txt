@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\09.PrintFibonacci\bin\Debug\09.PrintFibonacci.exe.config
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\09.PrintFibonacci\bin\Debug\09.PrintFibonacci.exe
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\09.PrintFibonacci\bin\Debug\09.PrintFibonacci.pdb
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\09.PrintFibonacci\obj\Debug\09.PrintFibonacci.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\09.PrintFibonacci\obj\Debug\09.PrintFibonacci.exe
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\09.PrintFibonacci\obj\Debug\09.PrintFibonacci.pdb

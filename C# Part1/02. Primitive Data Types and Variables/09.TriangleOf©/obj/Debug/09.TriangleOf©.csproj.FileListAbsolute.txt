@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\09.TriangleOf©\bin\Debug\09.TriangleOf©.exe.config
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\09.TriangleOf©\bin\Debug\09.TriangleOf©.exe
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\09.TriangleOf©\bin\Debug\09.TriangleOf©.pdb
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\09.TriangleOf©\obj\Debug\09.TriangleOf©.exe
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\09.TriangleOf©\obj\Debug\09.TriangleOf©.pdb
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\09.TriangleOf©\obj\Debug\09.TriangleOf©.csprojResolveAssemblyReference.cache

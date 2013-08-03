@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.exe
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.pdb

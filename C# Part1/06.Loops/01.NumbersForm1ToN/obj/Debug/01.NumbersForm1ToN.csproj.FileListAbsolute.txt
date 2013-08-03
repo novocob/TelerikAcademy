@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork6\Loops\01.NumbersForm1ToN\bin\Debug\01.NumbersForm1ToN.exe.config
-F:\Telerik\HomeWork6\Loops\01.NumbersForm1ToN\bin\Debug\01.NumbersForm1ToN.exe
-F:\Telerik\HomeWork6\Loops\01.NumbersForm1ToN\bin\Debug\01.NumbersForm1ToN.pdb
-F:\Telerik\HomeWork6\Loops\01.NumbersForm1ToN\obj\Debug\01.NumbersForm1ToN.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork6\Loops\01.NumbersForm1ToN\obj\Debug\01.NumbersForm1ToN.exe
-F:\Telerik\HomeWork6\Loops\01.NumbersForm1ToN\obj\Debug\01.NumbersForm1ToN.pdb

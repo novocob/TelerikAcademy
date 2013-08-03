@@ -1,5 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\04.ArrayBinSearch\bin\Debug\04.ArrayBinSearch.exe.config
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\04.ArrayBinSearch\bin\Debug\04.ArrayBinSearch.exe
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\04.ArrayBinSearch\bin\Debug\04.ArrayBinSearch.pdb
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\04.ArrayBinSearch\obj\Debug\04.ArrayBinSearch.exe
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\04.ArrayBinSearch\obj\Debug\04.ArrayBinSearch.pdb

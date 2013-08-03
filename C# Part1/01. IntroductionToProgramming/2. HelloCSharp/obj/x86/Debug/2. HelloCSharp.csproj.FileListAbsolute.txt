@@ -1,5 +1,0 @@
-E:\Telerik\HomeWork1\1. IntroductionToProgramming\2. HelloCSharp\bin\Debug\_2.HelloCSharp.exe
-E:\Telerik\HomeWork1\1. IntroductionToProgramming\2. HelloCSharp\bin\Debug\_2.HelloCSharp.pdb
-E:\Telerik\HomeWork1\1. IntroductionToProgramming\2. HelloCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
-E:\Telerik\HomeWork1\1. IntroductionToProgramming\2. HelloCSharp\obj\x86\Debug\_2.HelloCSharp.exe
-E:\Telerik\HomeWork1\1. IntroductionToProgramming\2. HelloCSharp\obj\x86\Debug\_2.HelloCSharp.pdb

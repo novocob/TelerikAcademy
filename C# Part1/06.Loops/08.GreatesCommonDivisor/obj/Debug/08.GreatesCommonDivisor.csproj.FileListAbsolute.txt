@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork6\Loops\08.GreatesCommonDivisor\bin\Debug\08.GreatesCommonDivisor.exe.config
-F:\Telerik\HomeWork6\Loops\08.GreatesCommonDivisor\bin\Debug\08.GreatesCommonDivisor.exe
-F:\Telerik\HomeWork6\Loops\08.GreatesCommonDivisor\bin\Debug\08.GreatesCommonDivisor.pdb
-F:\Telerik\HomeWork6\Loops\08.GreatesCommonDivisor\obj\Debug\08.GreatesCommonDivisor.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork6\Loops\08.GreatesCommonDivisor\obj\Debug\08.GreatesCommonDivisor.exe
-F:\Telerik\HomeWork6\Loops\08.GreatesCommonDivisor\obj\Debug\08.GreatesCommonDivisor.pdb

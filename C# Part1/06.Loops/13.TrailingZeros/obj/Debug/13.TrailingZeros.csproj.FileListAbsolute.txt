@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork6\Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.exe.config
-F:\Telerik\HomeWork6\Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.exe
-F:\Telerik\HomeWork6\Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.pdb
-F:\Telerik\HomeWork6\Loops\13.TrailingZeros\obj\Debug\13.TrailingZeros.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork6\Loops\13.TrailingZeros\obj\Debug\13.TrailingZeros.exe
-F:\Telerik\HomeWork6\Loops\13.TrailingZeros\obj\Debug\13.TrailingZeros.pdb

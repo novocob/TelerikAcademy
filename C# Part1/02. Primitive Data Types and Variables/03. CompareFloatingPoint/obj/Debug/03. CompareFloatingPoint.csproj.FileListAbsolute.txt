@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\03. CompareFloatingPoint\bin\Debug\_03.CompareFloatingPoint.exe.config
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\03. CompareFloatingPoint\obj\Debug\03. CompareFloatingPoint.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\03. CompareFloatingPoint\bin\Debug\_03.CompareFloatingPoint.exe
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\03. CompareFloatingPoint\bin\Debug\_03.CompareFloatingPoint.pdb
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\03. CompareFloatingPoint\obj\Debug\_03.CompareFloatingPoint.exe
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\03. CompareFloatingPoint\obj\Debug\_03.CompareFloatingPoint.pdb

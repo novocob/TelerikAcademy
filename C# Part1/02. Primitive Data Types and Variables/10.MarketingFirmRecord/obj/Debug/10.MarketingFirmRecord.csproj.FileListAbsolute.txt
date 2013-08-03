@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\10.MarketingFirmRecord\bin\Debug\10.MarketingFirmRecord.exe.config
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\10.MarketingFirmRecord\bin\Debug\10.MarketingFirmRecord.exe
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\10.MarketingFirmRecord\bin\Debug\10.MarketingFirmRecord.pdb
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\10.MarketingFirmRecord\obj\Debug\10.MarketingFirmRecord.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\10.MarketingFirmRecord\obj\Debug\10.MarketingFirmRecord.exe
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\10.MarketingFirmRecord\obj\Debug\10.MarketingFirmRecord.pdb

@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\10.BitAtPositionP\bin\Debug\10.BitAtPositionP.exe.config
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\10.BitAtPositionP\bin\Debug\10.BitAtPositionP.exe
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\10.BitAtPositionP\bin\Debug\10.BitAtPositionP.pdb
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\10.BitAtPositionP\obj\Debug\10.BitAtPositionP.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\10.BitAtPositionP\obj\Debug\10.BitAtPositionP.exe
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\10.BitAtPositionP\obj\Debug\10.BitAtPositionP.pdb

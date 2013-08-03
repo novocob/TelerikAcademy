@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\06.FirstBiggerNumber\bin\Debug\06.FirstBiggerNumber.exe.config
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\06.FirstBiggerNumber\bin\Debug\06.FirstBiggerNumber.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\06.FirstBiggerNumber\bin\Debug\06.FirstBiggerNumber.pdb
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\06.FirstBiggerNumber\obj\Debug\06.FirstBiggerNumber.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\06.FirstBiggerNumber\obj\Debug\06.FirstBiggerNumber.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\06.FirstBiggerNumber\obj\Debug\06.FirstBiggerNumber.pdb

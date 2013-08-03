@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\05.VariableUnocode72\bin\Debug\05.VariableUnocode72.exe.config
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\05.VariableUnocode72\bin\Debug\05.VariableUnocode72.exe
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\05.VariableUnocode72\bin\Debug\05.VariableUnocode72.pdb
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\05.VariableUnocode72\obj\Debug\05.VariableUnocode72.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\05.VariableUnocode72\obj\Debug\05.VariableUnocode72.exe
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\05.VariableUnocode72\obj\Debug\05.VariableUnocode72.pdb

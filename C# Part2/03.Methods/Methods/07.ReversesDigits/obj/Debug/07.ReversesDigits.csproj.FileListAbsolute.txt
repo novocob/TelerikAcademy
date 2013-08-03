@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\07.ReversesDigits\bin\Debug\07.ReversesDigits.exe.config
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\07.ReversesDigits\bin\Debug\07.ReversesDigits.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\07.ReversesDigits\bin\Debug\07.ReversesDigits.pdb
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\07.ReversesDigits\obj\Debug\07.ReversesDigits.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\07.ReversesDigits\obj\Debug\07.ReversesDigits.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\07.ReversesDigits\obj\Debug\07.ReversesDigits.pdb

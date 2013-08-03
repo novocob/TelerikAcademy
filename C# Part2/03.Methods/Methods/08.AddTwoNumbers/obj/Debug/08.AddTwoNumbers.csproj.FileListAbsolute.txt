@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\08.AddTwoNumbers\bin\Debug\08.AddTwoNumbers.exe.config
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\08.AddTwoNumbers\bin\Debug\08.AddTwoNumbers.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\08.AddTwoNumbers\bin\Debug\08.AddTwoNumbers.pdb
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\08.AddTwoNumbers\obj\Debug\08.AddTwoNumbers.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\08.AddTwoNumbers\obj\Debug\08.AddTwoNumbers.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\08.AddTwoNumbers\obj\Debug\08.AddTwoNumbers.pdb

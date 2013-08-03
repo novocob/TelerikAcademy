@@ -1,5 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\03.FillMatrixC\bin\Debug\03.FillMatrixC.exe.config
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\03.FillMatrixC\obj\Debug\03.FillMatrixC.exe
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\03.FillMatrixC\obj\Debug\03.FillMatrixC.pdb
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\03.FillMatrixC\bin\Debug\03.FillMatrixC.exe
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\03.FillMatrixC\bin\Debug\03.FillMatrixC.pdb

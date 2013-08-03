@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\04.HowManyTimes\bin\Debug\04.HowManyTimes.exe.config
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\04.HowManyTimes\bin\Debug\04.HowManyTimes.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\04.HowManyTimes\bin\Debug\04.HowManyTimes.pdb
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\04.HowManyTimes\obj\Debug\04.HowManyTimes.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\04.HowManyTimes\obj\Debug\04.HowManyTimes.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\04.HowManyTimes\obj\Debug\04.HowManyTimes.pdb

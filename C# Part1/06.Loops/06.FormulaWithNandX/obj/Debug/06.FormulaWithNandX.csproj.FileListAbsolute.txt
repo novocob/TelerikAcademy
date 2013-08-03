@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork6\Loops\06.FormulaWithNandX\bin\Debug\06.FormulaWithNandX.exe.config
-F:\Telerik\HomeWork6\Loops\06.FormulaWithNandX\bin\Debug\06.FormulaWithNandX.exe
-F:\Telerik\HomeWork6\Loops\06.FormulaWithNandX\bin\Debug\06.FormulaWithNandX.pdb
-F:\Telerik\HomeWork6\Loops\06.FormulaWithNandX\obj\Debug\06.FormulaWithNandX.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork6\Loops\06.FormulaWithNandX\obj\Debug\06.FormulaWithNandX.exe
-F:\Telerik\HomeWork6\Loops\06.FormulaWithNandX\obj\Debug\06.FormulaWithNandX.pdb

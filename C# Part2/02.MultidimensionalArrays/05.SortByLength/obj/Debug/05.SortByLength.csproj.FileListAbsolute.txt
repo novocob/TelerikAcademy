@@ -1,5 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\05.SortByLength\bin\Debug\05.SortByLength.exe.config
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\05.SortByLength\bin\Debug\05.SortByLength.exe
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\05.SortByLength\bin\Debug\05.SortByLength.pdb
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\05.SortByLength\obj\Debug\05.SortByLength.exe
-F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\05.SortByLength\obj\Debug\05.SortByLength.pdb

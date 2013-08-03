@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\09.PointCircleRectangular\bin\Debug\09.PointCircleRectangular.exe.config
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\09.PointCircleRectangular\bin\Debug\09.PointCircleRectangular.exe
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\09.PointCircleRectangular\bin\Debug\09.PointCircleRectangular.pdb
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\09.PointCircleRectangular\obj\Debug\09.PointCircleRectangular.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\09.PointCircleRectangular\obj\Debug\09.PointCircleRectangular.exe
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\09.PointCircleRectangular\obj\Debug\09.PointCircleRectangular.pdb

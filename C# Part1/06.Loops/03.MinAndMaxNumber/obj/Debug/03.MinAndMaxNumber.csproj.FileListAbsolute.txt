@@ -1,5 +1,0 @@
-F:\Telerik\HomeWork6\Loops\03.MinAndMaxNumber\bin\Debug\03.MinAndMaxNumber.exe.config
-F:\Telerik\HomeWork6\Loops\03.MinAndMaxNumber\bin\Debug\03.MinAndMaxNumber.exe
-F:\Telerik\HomeWork6\Loops\03.MinAndMaxNumber\bin\Debug\03.MinAndMaxNumber.pdb
-F:\Telerik\HomeWork6\Loops\03.MinAndMaxNumber\obj\Debug\03.MinAndMaxNumber.exe
-F:\Telerik\HomeWork6\Loops\03.MinAndMaxNumber\obj\Debug\03.MinAndMaxNumber.pdb

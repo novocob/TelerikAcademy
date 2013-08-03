@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\10.Factorial100\bin\Debug\10.Factorial100.exe.config
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\10.Factorial100\bin\Debug\10.Factorial100.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\10.Factorial100\bin\Debug\10.Factorial100.pdb
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\10.Factorial100\obj\Debug\10.Factorial100.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\10.Factorial100\obj\Debug\10.Factorial100.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\10.Factorial100\obj\Debug\10.Factorial100.pdb

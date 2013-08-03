@@ -1,5 +1,0 @@
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\10.SumAccuracy\bin\Debug\10.SumAccuracy.exe.config
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\10.SumAccuracy\bin\Debug\10.SumAccuracy.exe
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\10.SumAccuracy\bin\Debug\10.SumAccuracy.pdb
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\10.SumAccuracy\obj\Debug\10.SumAccuracy.exe
-F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\10.SumAccuracy\obj\Debug\10.SumAccuracy.pdb

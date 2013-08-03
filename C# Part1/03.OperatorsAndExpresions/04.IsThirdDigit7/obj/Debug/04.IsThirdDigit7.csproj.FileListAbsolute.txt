@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\04.IsThirdDigit7\bin\Debug\04.IsThirdDigit7.exe.config
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\04.IsThirdDigit7\bin\Debug\04.IsThirdDigit7.exe
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\04.IsThirdDigit7\bin\Debug\04.IsThirdDigit7.pdb
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\04.IsThirdDigit7\obj\Debug\04.IsThirdDigit7.exe
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\04.IsThirdDigit7\obj\Debug\04.IsThirdDigit7.pdb
-F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\04.IsThirdDigit7\obj\Debug\04.IsThirdDigit7.csprojResolveAssemblyReference.cache

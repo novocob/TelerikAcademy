@@ -1,6 +1,0 @@
-F:\Telerik\HomeWork5\ConditionalStatements\08.IntDoubleString\bin\Debug\08.IntDoubleString.exe.config
-F:\Telerik\HomeWork5\ConditionalStatements\08.IntDoubleString\bin\Debug\08.IntDoubleString.exe
-F:\Telerik\HomeWork5\ConditionalStatements\08.IntDoubleString\bin\Debug\08.IntDoubleString.pdb
-F:\Telerik\HomeWork5\ConditionalStatements\08.IntDoubleString\obj\Debug\08.IntDoubleString.csprojResolveAssemblyReference.cache
-F:\Telerik\HomeWork5\ConditionalStatements\08.IntDoubleString\obj\Debug\08.IntDoubleString.exe
-F:\Telerik\HomeWork5\ConditionalStatements\08.IntDoubleString\obj\Debug\08.IntDoubleString.pdb

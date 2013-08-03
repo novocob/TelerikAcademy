@@ -1,5 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\05.IncreasingSequence\bin\Debug\05.IncreasingSequence.exe.config
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\05.IncreasingSequence\bin\Debug\05.IncreasingSequence.exe
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\05.IncreasingSequence\bin\Debug\05.IncreasingSequence.pdb
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\05.IncreasingSequence\obj\Debug\05.IncreasingSequence.exe
-F:\Telerik\CSharpPart2\HomeWork1\Arrays\05.IncreasingSequence\obj\Debug\05.IncreasingSequence.pdb

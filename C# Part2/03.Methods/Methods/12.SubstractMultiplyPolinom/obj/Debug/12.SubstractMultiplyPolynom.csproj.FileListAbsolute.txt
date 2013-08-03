@@ -1,5 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\12.SubstractMultiplyPolinom\bin\Debug\12.SubstractMultiplyPolinom.exe.config
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\12.SubstractMultiplyPolinom\bin\Debug\12.SubstractMultiplyPolinom.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\12.SubstractMultiplyPolinom\bin\Debug\12.SubstractMultiplyPolinom.pdb
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\12.SubstractMultiplyPolinom\obj\Debug\12.SubstractMultiplyPolinom.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\12.SubstractMultiplyPolinom\obj\Debug\12.SubstractMultiplyPolinom.pdb

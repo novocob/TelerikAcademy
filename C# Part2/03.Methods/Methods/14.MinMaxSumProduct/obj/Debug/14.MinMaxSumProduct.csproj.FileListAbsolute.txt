@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\14.MinMaxSumProduct\bin\Debug\14.MinMaxSumProduct.exe.config
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\14.MinMaxSumProduct\bin\Debug\14.MinMaxSumProduct.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\14.MinMaxSumProduct\bin\Debug\14.MinMaxSumProduct.pdb
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\14.MinMaxSumProduct\obj\Debug\14.MinMaxSumProduct.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\14.MinMaxSumProduct\obj\Debug\14.MinMaxSumProduct.exe
-F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\14.MinMaxSumProduct\obj\Debug\14.MinMaxSumProduct.pdb

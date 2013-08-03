@@ -1,5 +1,0 @@
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\13.NullValue\bin\Debug\13.NullValue.exe.config
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\13.NullValue\bin\Debug\13.NullValue.exe
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\13.NullValue\bin\Debug\13.NullValue.pdb
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\13.NullValue\obj\Debug\13.NullValue.exe
-F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\13.NullValue\obj\Debug\13.NullValue.pdb
