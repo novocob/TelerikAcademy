@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork5\ConditionalStatements\02.SignOfProduct\bin\Debug\02.SignOfProduct.exe.config
+F:\Telerik\HomeWork5\ConditionalStatements\02.SignOfProduct\bin\Debug\02.SignOfProduct.exe
+F:\Telerik\HomeWork5\ConditionalStatements\02.SignOfProduct\bin\Debug\02.SignOfProduct.pdb
+F:\Telerik\HomeWork5\ConditionalStatements\02.SignOfProduct\obj\Debug\02.SignOfProduct.exe
+F:\Telerik\HomeWork5\ConditionalStatements\02.SignOfProduct\obj\Debug\02.SignOfProduct.pdb
+F:\Telerik\HomeWork5\ConditionalStatements\02.SignOfProduct\obj\Debug\02.SignOfProduct.csprojResolveAssemblyReference.cache

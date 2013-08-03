@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\02.MaxSum3x3\bin\Debug\02.MaxSum3x3.exe.config
+F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\02.MaxSum3x3\bin\Debug\02.MaxSum3x3.exe
+F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\02.MaxSum3x3\bin\Debug\02.MaxSum3x3.pdb
+F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\02.MaxSum3x3\obj\Debug\02.MaxSum3x3.exe
+F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\02.MaxSum3x3\obj\Debug\02.MaxSum3x3.pdb
+F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\02.MaxSum3x3\obj\Debug\02.MaxSum3x3.csprojResolveAssemblyReference.cache

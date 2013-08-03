@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\04.HexadecimalFormat\bin\Debug\04.HexadecimalFormat.exe.config
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\04.HexadecimalFormat\bin\Debug\04.HexadecimalFormat.exe
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\04.HexadecimalFormat\bin\Debug\04.HexadecimalFormat.pdb
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\04.HexadecimalFormat\obj\Debug\04.HexadecimalFormat.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\04.HexadecimalFormat\obj\Debug\04.HexadecimalFormat.exe
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\04.HexadecimalFormat\obj\Debug\04.HexadecimalFormat.pdb

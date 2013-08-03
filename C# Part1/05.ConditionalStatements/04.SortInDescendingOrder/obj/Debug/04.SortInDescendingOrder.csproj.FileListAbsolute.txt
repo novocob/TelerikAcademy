@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork5\ConditionalStatements\04.SortInDescendingOrder\bin\Debug\04.SortInDescendingOrder.exe.config
+F:\Telerik\HomeWork5\ConditionalStatements\04.SortInDescendingOrder\bin\Debug\04.SortInDescendingOrder.exe
+F:\Telerik\HomeWork5\ConditionalStatements\04.SortInDescendingOrder\bin\Debug\04.SortInDescendingOrder.pdb
+F:\Telerik\HomeWork5\ConditionalStatements\04.SortInDescendingOrder\obj\Debug\04.SortInDescendingOrder.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork5\ConditionalStatements\04.SortInDescendingOrder\obj\Debug\04.SortInDescendingOrder.exe
+F:\Telerik\HomeWork5\ConditionalStatements\04.SortInDescendingOrder\obj\Debug\04.SortInDescendingOrder.pdb

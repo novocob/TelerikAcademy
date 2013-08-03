@@ -1,0 +1,5 @@
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\8. SquareOf12345\bin\Debug\_8.SquareOf12345.exe
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\8. SquareOf12345\bin\Debug\_8.SquareOf12345.pdb
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\8. SquareOf12345\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\8. SquareOf12345\obj\x86\Debug\_8.SquareOf12345.exe
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\8. SquareOf12345\obj\x86\Debug\_8.SquareOf12345.pdb

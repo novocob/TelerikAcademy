@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork6\Loops\11.PrintAllCards\bin\Debug\11.PrintAllCards.exe.config
+F:\Telerik\HomeWork6\Loops\11.PrintAllCards\bin\Debug\11.PrintAllCards.exe
+F:\Telerik\HomeWork6\Loops\11.PrintAllCards\bin\Debug\11.PrintAllCards.pdb
+F:\Telerik\HomeWork6\Loops\11.PrintAllCards\obj\Debug\11.PrintAllCards.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork6\Loops\11.PrintAllCards\obj\Debug\11.PrintAllCards.exe
+F:\Telerik\HomeWork6\Loops\11.PrintAllCards\obj\Debug\11.PrintAllCards.pdb

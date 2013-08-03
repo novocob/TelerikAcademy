@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.exe.config
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.exe
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.pdb
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.exe
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.pdb

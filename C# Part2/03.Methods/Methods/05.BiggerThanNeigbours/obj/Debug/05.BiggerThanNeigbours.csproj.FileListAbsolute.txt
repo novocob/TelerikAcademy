@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\05.BiggerThanNeigbours\bin\Debug\05.BiggerThanNeigbours.exe.config
+F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\05.BiggerThanNeigbours\bin\Debug\05.BiggerThanNeigbours.exe
+F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\05.BiggerThanNeigbours\bin\Debug\05.BiggerThanNeigbours.pdb
+F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\05.BiggerThanNeigbours\obj\Debug\05.BiggerThanNeigbours.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\05.BiggerThanNeigbours\obj\Debug\05.BiggerThanNeigbours.exe
+F:\Telerik\CSharpPart2\HomeWork3\Methods\Methods\05.BiggerThanNeigbours\obj\Debug\05.BiggerThanNeigbours.pdb

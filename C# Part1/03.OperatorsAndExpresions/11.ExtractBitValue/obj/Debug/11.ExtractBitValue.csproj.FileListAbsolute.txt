@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\11.ExtractBitValue\bin\Debug\11.ExtractBitValue.exe.config
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\11.ExtractBitValue\bin\Debug\11.ExtractBitValue.exe
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\11.ExtractBitValue\bin\Debug\11.ExtractBitValue.pdb
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\11.ExtractBitValue\obj\Debug\11.ExtractBitValue.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\11.ExtractBitValue\obj\Debug\11.ExtractBitValue.exe
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\11.ExtractBitValue\obj\Debug\11.ExtractBitValue.pdb

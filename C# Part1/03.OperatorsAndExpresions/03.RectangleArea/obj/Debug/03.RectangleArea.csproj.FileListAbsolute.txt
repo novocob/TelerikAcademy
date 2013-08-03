@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\03.RectangleArea\bin\Debug\03.RectangleArea.exe.config
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\03.RectangleArea\obj\Debug\03.RectangleArea.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\03.RectangleArea\bin\Debug\03.RectangleArea.exe
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\03.RectangleArea\bin\Debug\03.RectangleArea.pdb
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\03.RectangleArea\obj\Debug\03.RectangleArea.exe
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\03.RectangleArea\obj\Debug\03.RectangleArea.pdb

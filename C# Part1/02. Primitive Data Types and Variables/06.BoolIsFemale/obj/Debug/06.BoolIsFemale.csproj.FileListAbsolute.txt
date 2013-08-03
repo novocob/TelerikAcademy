@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\06.BoolIsFemale\bin\Debug\06.BoolIsFemale.exe.config
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\06.BoolIsFemale\bin\Debug\06.BoolIsFemale.exe
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\06.BoolIsFemale\bin\Debug\06.BoolIsFemale.pdb
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\06.BoolIsFemale\obj\Debug\06.BoolIsFemale.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\06.BoolIsFemale\obj\Debug\06.BoolIsFemale.exe
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\06.BoolIsFemale\obj\Debug\06.BoolIsFemale.pdb

@@ -1,0 +1,5 @@
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\02.DivisionBy7And5\bin\Debug\02.DivisionBy7And5.exe.config
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\02.DivisionBy7And5\bin\Debug\02.DivisionBy7And5.exe
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\02.DivisionBy7And5\bin\Debug\02.DivisionBy7And5.pdb
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\02.DivisionBy7And5\obj\Debug\02.DivisionBy7And5.exe
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\02.DivisionBy7And5\obj\Debug\02.DivisionBy7And5.pdb

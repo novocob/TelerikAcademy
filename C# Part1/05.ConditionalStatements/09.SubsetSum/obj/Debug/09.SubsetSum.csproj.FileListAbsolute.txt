@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork5\ConditionalStatements\09.SubsetSum\bin\Debug\09.SubsetSum.exe.config
+F:\Telerik\HomeWork5\ConditionalStatements\09.SubsetSum\bin\Debug\09.SubsetSum.exe
+F:\Telerik\HomeWork5\ConditionalStatements\09.SubsetSum\bin\Debug\09.SubsetSum.pdb
+F:\Telerik\HomeWork5\ConditionalStatements\09.SubsetSum\obj\Debug\09.SubsetSum.exe
+F:\Telerik\HomeWork5\ConditionalStatements\09.SubsetSum\obj\Debug\09.SubsetSum.pdb
+F:\Telerik\HomeWork5\ConditionalStatements\09.SubsetSum\obj\Debug\09.SubsetSum.csprojResolveAssemblyReference.cache

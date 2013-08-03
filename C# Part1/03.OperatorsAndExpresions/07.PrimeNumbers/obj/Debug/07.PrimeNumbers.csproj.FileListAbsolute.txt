@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\07.PrimeNumbers\bin\Debug\07.PrimeNumbers.exe.config
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\07.PrimeNumbers\bin\Debug\07.PrimeNumbers.exe
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\07.PrimeNumbers\bin\Debug\07.PrimeNumbers.pdb
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\07.PrimeNumbers\obj\Debug\07.PrimeNumbers.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\07.PrimeNumbers\obj\Debug\07.PrimeNumbers.exe
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\07.PrimeNumbers\obj\Debug\07.PrimeNumbers.pdb

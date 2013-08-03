@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\12.ChangeBitAtPosition\bin\Debug\12.ChangeBitAtPosition.exe.config
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\12.ChangeBitAtPosition\bin\Debug\12.ChangeBitAtPosition.exe
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\12.ChangeBitAtPosition\bin\Debug\12.ChangeBitAtPosition.pdb
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\12.ChangeBitAtPosition\obj\Debug\12.ChangeBitAtPosition.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\12.ChangeBitAtPosition\obj\Debug\12.ChangeBitAtPosition.exe
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\12.ChangeBitAtPosition\obj\Debug\12.ChangeBitAtPosition.pdb

@@ -1,0 +1,5 @@
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\7. PrintDateTime\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\7. PrintDateTime\bin\Debug\_7.PrintDateTime.exe
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\7. PrintDateTime\bin\Debug\_7.PrintDateTime.pdb
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\7. PrintDateTime\obj\x86\Debug\_7.PrintDateTime.exe
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\7. PrintDateTime\obj\x86\Debug\_7.PrintDateTime.pdb

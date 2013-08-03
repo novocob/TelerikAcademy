@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\03.MatrixOfStrings\bin\Debug\03.MatrixOfStrings.exe.config
+F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\03.MatrixOfStrings\bin\Debug\03.MatrixOfStrings.exe
+F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\03.MatrixOfStrings\bin\Debug\03.MatrixOfStrings.pdb
+F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\03.MatrixOfStrings\obj\Debug\03.MatrixOfStrings.exe
+F:\Telerik\CSharpPart2\HomeWork2\MultidimensionalArrays\03.MatrixOfStrings\obj\Debug\03.MatrixOfStrings.pdb

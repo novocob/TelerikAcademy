@@ -1,0 +1,1 @@
+F:\Telerik\HomeWork4\ConsoleInputOutput\ConsoleInputOutput\02.CirclePerimeterAndArea\bin\Debug\02.CirclePerimeterAndArea.exe.config

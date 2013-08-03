@@ -1,0 +1,2 @@
+F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\6. PrintMyFullName\obj\x86\Debug\_6.PrintMyFullName.exe
+F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\6. PrintMyFullName\obj\x86\Debug\_6.PrintMyFullName.pdb

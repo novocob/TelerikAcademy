@@ -1,0 +1,5 @@
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\6. PrintMyFullName\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\6. PrintMyFullName\bin\Debug\_6.PrintMyFullName.exe
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\6. PrintMyFullName\bin\Debug\_6.PrintMyFullName.pdb
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\6. PrintMyFullName\obj\x86\Debug\_6.PrintMyFullName.exe
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\6. PrintMyFullName\obj\x86\Debug\_6.PrintMyFullName.pdb

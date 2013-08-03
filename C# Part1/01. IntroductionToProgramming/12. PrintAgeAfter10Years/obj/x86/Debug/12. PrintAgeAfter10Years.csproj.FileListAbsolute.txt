@@ -1,0 +1,9 @@
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\12. PrintAgeAfter10Years\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\12. PrintAgeAfter10Years\bin\Debug\_12.PrintAgeAfter10Years.exe
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\12. PrintAgeAfter10Years\bin\Debug\_12.PrintAgeAfter10Years.pdb
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\12. PrintAgeAfter10Years\obj\x86\Debug\_12.PrintAgeAfter10Years.exe
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\12. PrintAgeAfter10Years\obj\x86\Debug\_12.PrintAgeAfter10Years.pdb
+F:\Telerik\HomeWork1\1. IntroductionToProgramming\12. PrintAgeAfter10Years\obj\x86\Debug\_12.PrintAgeAfter10Years.exe
+F:\Telerik\HomeWork1\1. IntroductionToProgramming\12. PrintAgeAfter10Years\obj\x86\Debug\_12.PrintAgeAfter10Years.pdb
+F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\12. PrintAgeAfter10Years\obj\x86\Debug\_12.PrintAgeAfter10Years.exe
+F:\Telerik\CSharpPart1\HomeWork1\1. IntroductionToProgramming\12. PrintAgeAfter10Years\obj\x86\Debug\_12.PrintAgeAfter10Years.pdb

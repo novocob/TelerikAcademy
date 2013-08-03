@@ -1,0 +1,5 @@
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\4. PrintNumbres\bin\Debug\_4.PrintNumbres.exe
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\4. PrintNumbres\bin\Debug\_4.PrintNumbres.pdb
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\4. PrintNumbres\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\4. PrintNumbres\obj\x86\Debug\_4.PrintNumbres.exe
+E:\Telerik\HomeWork1\1. IntroductionToProgramming\4. PrintNumbres\obj\x86\Debug\_4.PrintNumbres.pdb

@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\14.BankAccount\bin\Debug\14.BankAccount.exe
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\14.BankAccount\bin\Debug\14.BankAccount.pdb
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\14.BankAccount\obj\Debug\14.BankAccount.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\14.BankAccount\obj\Debug\14.BankAccount.exe
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\14.BankAccount\obj\Debug\14.BankAccount.pdb

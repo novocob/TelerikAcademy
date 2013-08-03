@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork5\ConditionalStatements\07.GreatestVariable\bin\Debug\07.GreatestVariable.exe.config
+F:\Telerik\HomeWork5\ConditionalStatements\07.GreatestVariable\bin\Debug\07.GreatestVariable.exe
+F:\Telerik\HomeWork5\ConditionalStatements\07.GreatestVariable\bin\Debug\07.GreatestVariable.pdb
+F:\Telerik\HomeWork5\ConditionalStatements\07.GreatestVariable\obj\Debug\07.GreatestVariable.exe
+F:\Telerik\HomeWork5\ConditionalStatements\07.GreatestVariable\obj\Debug\07.GreatestVariable.pdb
+F:\Telerik\HomeWork5\ConditionalStatements\07.GreatestVariable\obj\Debug\07.GreatestVariable.csprojResolveAssemblyReference.cache

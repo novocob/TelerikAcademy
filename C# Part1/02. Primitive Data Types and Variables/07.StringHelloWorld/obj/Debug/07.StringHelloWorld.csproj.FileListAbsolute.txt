@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\07.StringHelloWorld\bin\Debug\07.StringHelloWorld.exe.config
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\07.StringHelloWorld\bin\Debug\07.StringHelloWorld.exe
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\07.StringHelloWorld\bin\Debug\07.StringHelloWorld.pdb
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\07.StringHelloWorld\obj\Debug\07.StringHelloWorld.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\07.StringHelloWorld\obj\Debug\07.StringHelloWorld.exe
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\07.StringHelloWorld\obj\Debug\07.StringHelloWorld.pdb

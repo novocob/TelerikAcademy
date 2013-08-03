@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\08.UseOfQuotations\bin\Debug\08.UseOfQuotations.exe.config
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\08.UseOfQuotations\bin\Debug\08.UseOfQuotations.exe
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\08.UseOfQuotations\bin\Debug\08.UseOfQuotations.pdb
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\08.UseOfQuotations\obj\Debug\08.UseOfQuotations.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\08.UseOfQuotations\obj\Debug\08.UseOfQuotations.exe
+F:\Telerik\HomeWork2\02. Primitive Data Types and Variables\02. Primitive Data Types and Variables\08.UseOfQuotations\obj\Debug\08.UseOfQuotations.pdb

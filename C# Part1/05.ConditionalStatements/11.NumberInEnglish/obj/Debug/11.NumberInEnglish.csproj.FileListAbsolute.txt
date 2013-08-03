@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork5\ConditionalStatements\11.NumberInEnglish\bin\Debug\11.NumberInEnglish.exe.config
+F:\Telerik\HomeWork5\ConditionalStatements\11.NumberInEnglish\bin\Debug\11.NumberInEnglish.exe
+F:\Telerik\HomeWork5\ConditionalStatements\11.NumberInEnglish\bin\Debug\11.NumberInEnglish.pdb
+F:\Telerik\HomeWork5\ConditionalStatements\11.NumberInEnglish\obj\Debug\11.NumberInEnglish.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork5\ConditionalStatements\11.NumberInEnglish\obj\Debug\11.NumberInEnglish.exe
+F:\Telerik\HomeWork5\ConditionalStatements\11.NumberInEnglish\obj\Debug\11.NumberInEnglish.pdb

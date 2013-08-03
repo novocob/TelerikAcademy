@@ -1,0 +1,6 @@
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe.config
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\13.ExchangeBits\bin\Debug\13.ExchangeBits.pdb
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\13.ExchangeBits\obj\Debug\13.ExchangeBits.csprojResolveAssemblyReference.cache
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\13.ExchangeBits\obj\Debug\13.ExchangeBits.exe
+F:\Telerik\HomeWork3\OperatorsAndExpressions\OperatorsAndExpresions\13.ExchangeBits\obj\Debug\13.ExchangeBits.pdb

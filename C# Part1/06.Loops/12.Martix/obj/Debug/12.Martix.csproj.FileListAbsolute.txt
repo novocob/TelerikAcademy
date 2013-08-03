@@ -1,0 +1,5 @@
+F:\Telerik\HomeWork6\Loops\12.Martix\bin\Debug\12.Martix.exe.config
+F:\Telerik\HomeWork6\Loops\12.Martix\bin\Debug\12.Martix.exe
+F:\Telerik\HomeWork6\Loops\12.Martix\bin\Debug\12.Martix.pdb
+F:\Telerik\HomeWork6\Loops\12.Martix\obj\Debug\12.Martix.exe
+F:\Telerik\HomeWork6\Loops\12.Martix\obj\Debug\12.Martix.pdb
