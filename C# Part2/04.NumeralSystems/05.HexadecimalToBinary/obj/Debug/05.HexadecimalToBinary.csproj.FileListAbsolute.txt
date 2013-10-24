@@ -1,5 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe.config
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.pdb
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.exe
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.pdb

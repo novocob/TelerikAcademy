@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\08.ShortToBinary\bin\Debug\08.ShortToBinary.exe.config
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\08.ShortToBinary\bin\Debug\08.ShortToBinary.exe
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\08.ShortToBinary\bin\Debug\08.ShortToBinary.pdb
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\08.ShortToBinary\obj\Debug\08.ShortToBinary.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\08.ShortToBinary\obj\Debug\08.ShortToBinary.exe
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\08.ShortToBinary\obj\Debug\08.ShortToBinary.pdb

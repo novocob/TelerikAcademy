@@ -1,6 +1,0 @@
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe.config
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.csprojResolveAssemblyReference.cache
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.pdb
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.exe
-F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.pdb
