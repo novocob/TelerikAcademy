@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\23.ReplaceIdenticalLetters\obj\Debug\23.ReplaceIdenticalLetters.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\23.ReplaceIdenticalLetters\obj\Debug\23.ReplaceIdenticalLetters.pdb

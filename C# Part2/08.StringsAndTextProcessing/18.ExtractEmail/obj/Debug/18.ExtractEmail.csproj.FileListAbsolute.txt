@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\18.ExtractEmail\bin\Debug\18.ExtractEmail.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\18.ExtractEmail\bin\Debug\18.ExtractEmail.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\18.ExtractEmail\bin\Debug\18.ExtractEmail.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\18.ExtractEmail\obj\Debug\18.ExtractEmail.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\18.ExtractEmail\obj\Debug\18.ExtractEmail.pdb

@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\16.DaysBetweenDates\bin\Debug\16.DaysBetweenDates.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\16.DaysBetweenDates\bin\Debug\16.DaysBetweenDates.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\16.DaysBetweenDates\bin\Debug\16.DaysBetweenDates.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\16.DaysBetweenDates\obj\Debug\16.DaysBetweenDates.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\16.DaysBetweenDates\obj\Debug\16.DaysBetweenDates.pdb

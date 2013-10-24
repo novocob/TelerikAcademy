@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\24.PrintListOfWords\bin\Debug\24.PrintListOfWords.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\24.PrintListOfWords\bin\Debug\24.PrintListOfWords.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\24.PrintListOfWords\bin\Debug\24.PrintListOfWords.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\24.PrintListOfWords\obj\Debug\24.PrintListOfWords.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\24.PrintListOfWords\obj\Debug\24.PrintListOfWords.pdb

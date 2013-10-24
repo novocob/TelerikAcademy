@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\04.CompareTwoFiles\bin\Debug\04.CompareTwoFiles.exe.config
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\04.CompareTwoFiles\bin\Debug\04.CompareTwoFiles.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\04.CompareTwoFiles\bin\Debug\04.CompareTwoFiles.pdb
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\04.CompareTwoFiles\obj\Debug\04.CompareTwoFiles.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\04.CompareTwoFiles\obj\Debug\04.CompareTwoFiles.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\04.CompareTwoFiles\obj\Debug\04.CompareTwoFiles.pdb

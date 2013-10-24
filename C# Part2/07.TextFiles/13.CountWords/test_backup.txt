@@ -1,0 +1,6 @@
+This is input file.
+A program will count words in this file that exist in a list of words saved in another file - "words.txt".
+There is a backup copy of the input file in case you want to check
+the original and the modified files. The name of the copy is "test-backup.txt".
+The results will be writen in the file "result.txt".
+

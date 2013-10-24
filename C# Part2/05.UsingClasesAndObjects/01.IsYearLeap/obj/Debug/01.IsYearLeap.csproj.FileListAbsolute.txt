@@ -1,0 +1,9 @@
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\01.IsYearLeap\bin\Debug\01.IsYearLeap.exe.config
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\01.IsYearLeap\bin\Debug\01.IsYearLeap.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\01.IsYearLeap\bin\Debug\01.IsYearLeap.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\01.IsYearLeap\obj\Debug\01.IsYearLeap.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\01.IsYearLeap\obj\Debug\01.IsYearLeap.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\01.IsYearLeap\obj\Debug\01.IsYearLeap.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\01.IsYearLeap\bin\Debug\01.IsYearLeap.exe.config
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\01.IsYearLeap\obj\Debug\01.IsYearLeap.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\01.IsYearLeap\obj\Debug\01.IsYearLeap.pdb

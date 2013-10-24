@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\25.ExtractFromHTML\bin\Debug\25.ExtractFromHTML.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\25.ExtractFromHTML\bin\Debug\25.ExtractFromHTML.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\25.ExtractFromHTML\bin\Debug\25.ExtractFromHTML.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\25.ExtractFromHTML\obj\Debug\25.ExtractFromHTML.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\25.ExtractFromHTML\obj\Debug\25.ExtractFromHTML.pdb

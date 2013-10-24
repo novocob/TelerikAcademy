@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\05.NumberOfWorkDays\bin\Debug\05.NumberOfWorkDays.exe.config
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\05.NumberOfWorkDays\bin\Debug\05.NumberOfWorkDays.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\05.NumberOfWorkDays\bin\Debug\05.NumberOfWorkDays.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\05.NumberOfWorkDays\obj\Debug\05.NumberOfWorkDays.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\05.NumberOfWorkDays\obj\Debug\05.NumberOfWorkDays.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\05.NumberOfWorkDays\obj\Debug\05.NumberOfWorkDays.pdb

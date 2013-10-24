@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\05.Matrix\bin\Debug\05.Matrix.exe.config
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\05.Matrix\bin\Debug\05.Matrix.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\05.Matrix\bin\Debug\05.Matrix.pdb
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\05.Matrix\obj\Debug\05.Matrix.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\05.Matrix\obj\Debug\05.Matrix.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\05.Matrix\obj\Debug\05.Matrix.pdb

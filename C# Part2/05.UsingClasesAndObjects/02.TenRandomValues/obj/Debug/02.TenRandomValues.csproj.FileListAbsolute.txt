@@ -1,0 +1,10 @@
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.exe.config
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\02.TenRandomValues\obj\Debug\02.TenRandomValues.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\02.TenRandomValues\obj\Debug\02.TenRandomValues.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.exe.config
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\02.TenRandomValues\obj\Debug\02.TenRandomValues.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\02.TenRandomValues\obj\Debug\02.TenRandomValues.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.pdb

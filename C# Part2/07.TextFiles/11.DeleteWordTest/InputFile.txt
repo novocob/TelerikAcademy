@@ -1,0 +1,5 @@
+This file is a test file for a program.
+The program removes words beginnig with "test".
+For example: test, Tests , testing.
+The program doesn't remove words that include "test", but "test" is not in the beggining.
+For example: untested, firstTest.

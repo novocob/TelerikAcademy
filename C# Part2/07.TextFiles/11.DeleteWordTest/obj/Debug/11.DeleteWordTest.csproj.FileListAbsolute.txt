@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\11.DeleteWordTest\bin\Debug\11.DeleteWordTest.exe.config
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\11.DeleteWordTest\bin\Debug\11.DeleteWordTest.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\11.DeleteWordTest\bin\Debug\11.DeleteWordTest.pdb
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\11.DeleteWordTest\obj\Debug\11.DeleteWordTest.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\11.DeleteWordTest\obj\Debug\11.DeleteWordTest.pdb

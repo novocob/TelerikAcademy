@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\10.BetweenTags\bin\Debug\10.BetweenTags.exe.config
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\10.BetweenTags\bin\Debug\10.BetweenTags.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\10.BetweenTags\bin\Debug\10.BetweenTags.pdb
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\10.BetweenTags\obj\Debug\10.BetweenTags.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\10.BetweenTags\obj\Debug\10.BetweenTags.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\10.BetweenTags\obj\Debug\10.BetweenTags.pdb

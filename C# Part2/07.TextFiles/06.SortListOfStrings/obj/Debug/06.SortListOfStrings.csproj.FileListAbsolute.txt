@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\06.SortListOfStrings\bin\Debug\06.SortListOfStrings.exe.config
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\06.SortListOfStrings\bin\Debug\06.SortListOfStrings.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\06.SortListOfStrings\bin\Debug\06.SortListOfStrings.pdb
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\06.SortListOfStrings\obj\Debug\06.SortListOfStrings.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\06.SortListOfStrings\obj\Debug\06.SortListOfStrings.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\06.SortListOfStrings\obj\Debug\06.SortListOfStrings.pdb

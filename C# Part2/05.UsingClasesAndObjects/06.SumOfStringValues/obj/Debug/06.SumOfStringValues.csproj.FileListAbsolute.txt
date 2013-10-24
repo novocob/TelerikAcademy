@@ -1,0 +1,12 @@
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\06.SumOfStringValues\bin\Debug\06.SumOfStringValues.exe.config
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\06.SumOfStringValues\bin\Debug\06.SumOfStringValues.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\06.SumOfStringValues\bin\Debug\06.SumOfStringValues.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\06.SumOfStringValues\obj\Debug\06.SumOfStringValues.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\06.SumOfStringValues\obj\Debug\06.SumOfStringValues.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\06.SumOfStringValues\obj\Debug\06.SumOfStringValues.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\06.SumOfStringValues\bin\Debug\06.SumOfStringValues.exe.config
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\06.SumOfStringValues\obj\Debug\06.SumOfStringValues.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\06.SumOfStringValues\obj\Debug\06.SumOfStringValues.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\06.SumOfStringValues\bin\Debug\06.SumOfStringValues.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\06.SumOfStringValues\bin\Debug\06.SumOfStringValues.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\06.SumOfStringValues\obj\Debug\06.SumOfStringValues.csprojResolveAssemblyReference.cache

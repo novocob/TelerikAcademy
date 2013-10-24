@@ -1,0 +1,1 @@
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\01.SqareRoot\bin\Debug\01.SqareRoot.exe.config

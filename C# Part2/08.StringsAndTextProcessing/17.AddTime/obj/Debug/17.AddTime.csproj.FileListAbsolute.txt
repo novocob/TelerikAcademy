@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\17.AddTime\bin\Debug\17.AddTime.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\17.AddTime\bin\Debug\17.AddTime.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\17.AddTime\bin\Debug\17.AddTime.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\17.AddTime\obj\Debug\17.AddTime.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\17.AddTime\obj\Debug\17.AddTime.pdb

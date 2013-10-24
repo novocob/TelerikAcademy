@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.pdb

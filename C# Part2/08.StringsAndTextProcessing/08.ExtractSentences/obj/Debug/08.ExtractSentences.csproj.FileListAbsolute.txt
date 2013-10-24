@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\08.ExtractSentences\bin\Debug\08.ExtractSentences.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\08.ExtractSentences\obj\Debug\08.ExtractSentences.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\08.ExtractSentences\obj\Debug\08.ExtractSentences.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\08.ExtractSentences\obj\Debug\08.ExtractSentences.pdb

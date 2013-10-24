@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\08.ModifyTask7\bin\Debug\08.ModifyTask7.exe.config
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\08.ModifyTask7\bin\Debug\08.ModifyTask7.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\08.ModifyTask7\bin\Debug\08.ModifyTask7.pdb
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\08.ModifyTask7\obj\Debug\08.ModifyTask7.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\08.ModifyTask7\obj\Debug\08.ModifyTask7.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\08.ModifyTask7\obj\Debug\08.ModifyTask7.pdb

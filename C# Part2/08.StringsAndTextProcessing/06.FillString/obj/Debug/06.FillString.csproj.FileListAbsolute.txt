@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\06.FillString\bin\Debug\06.FillString.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\06.FillString\bin\Debug\06.FillString.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\06.FillString\bin\Debug\06.FillString.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\06.FillString\obj\Debug\06.FillString.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\06.FillString\obj\Debug\06.FillString.pdb

@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.exe.config
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.pdb
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\02.ConcatenateTwoFiles\obj\Debug\02.ConcatenateTwoFiles.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\02.ConcatenateTwoFiles\obj\Debug\02.ConcatenateTwoFiles.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\02.ConcatenateTwoFiles\obj\Debug\02.ConcatenateTwoFiles.pdb

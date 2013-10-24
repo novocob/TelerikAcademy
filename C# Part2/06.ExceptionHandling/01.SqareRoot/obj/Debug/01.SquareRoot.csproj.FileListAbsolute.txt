@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\01.SqareRoot\bin\Debug\01.SqareRoot.exe.config
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\01.SqareRoot\bin\Debug\01.SqareRoot.exe
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\01.SqareRoot\bin\Debug\01.SqareRoot.pdb
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\01.SqareRoot\obj\Debug\01.SquareRoot.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\01.SqareRoot\obj\Debug\01.SqareRoot.exe
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\01.SqareRoot\obj\Debug\01.SqareRoot.pdb

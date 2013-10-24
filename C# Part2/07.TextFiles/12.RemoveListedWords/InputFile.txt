@@ -1,0 +1,5 @@
+This is input file. Some of the words in this file will be deleted.
+A program will delete words that exists in a list of words saved in another file.
+There is a backup copy of the input file in case you want to check
+the original and the modified files.
+

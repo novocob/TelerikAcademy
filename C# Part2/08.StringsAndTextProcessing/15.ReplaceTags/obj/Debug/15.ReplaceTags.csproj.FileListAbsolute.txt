@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.pdb

@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\03.ReadAllText\bin\Debug\03.ReadAllText.exe.config
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\03.ReadAllText\bin\Debug\03.ReadAllText.exe
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\03.ReadAllText\bin\Debug\03.ReadAllText.pdb
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\03.ReadAllText\obj\Debug\03.ReadAllText.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\03.ReadAllText\obj\Debug\03.ReadAllText.exe
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\03.ReadAllText\obj\Debug\03.ReadAllText.pdb

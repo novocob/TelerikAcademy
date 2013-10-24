@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\12.ExtractURL\bin\Debug\12.ExtractURL.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\12.ExtractURL\bin\Debug\12.ExtractURL.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\12.ExtractURL\bin\Debug\12.ExtractURL.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\12.ExtractURL\obj\Debug\12.ExtractURL.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\12.ExtractURL\obj\Debug\12.ExtractURL.pdb

@@ -1,0 +1,9 @@
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\04.SurfaceOfTriangle\bin\Debug\04.SurfaceOfTriangle.exe.config
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\04.SurfaceOfTriangle\bin\Debug\04.SurfaceOfTriangle.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\04.SurfaceOfTriangle\bin\Debug\04.SurfaceOfTriangle.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\04.SurfaceOfTriangle\obj\Debug\04.SurfaceOfTriangle.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\04.SurfaceOfTriangle\obj\Debug\04.SurfaceOfTriangle.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\04.SurfaceOfTriangle\obj\Debug\04.SurfaceOfTriangle.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\04.SurfaceOfTriangle\bin\Debug\04.SurfaceOfTriangle.exe.config
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\04.SurfaceOfTriangle\obj\Debug\04.SurfaceOfTriangle.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\04.SurfaceOfTriangle\obj\Debug\04.SurfaceOfTriangle.pdb

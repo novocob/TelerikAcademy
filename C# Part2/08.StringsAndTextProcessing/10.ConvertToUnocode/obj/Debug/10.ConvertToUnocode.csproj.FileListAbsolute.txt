@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\10.ConvertToUnocode\bin\Debug\10.ConvertToUnocode.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\10.ConvertToUnocode\bin\Debug\10.ConvertToUnocode.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\10.ConvertToUnocode\bin\Debug\10.ConvertToUnocode.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\10.ConvertToUnocode\obj\Debug\10.ConvertToUnocode.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\10.ConvertToUnocode\obj\Debug\10.ConvertToUnocode.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\10.ConvertToUnocode\obj\Debug\10.ConvertToUnocode.pdb

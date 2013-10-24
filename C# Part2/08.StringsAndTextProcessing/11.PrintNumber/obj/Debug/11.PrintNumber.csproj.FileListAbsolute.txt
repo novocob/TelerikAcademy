@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\11.PrintNumber\bin\Debug\11.PrintNumber.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\11.PrintNumber\bin\Debug\11.PrintNumber.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\11.PrintNumber\bin\Debug\11.PrintNumber.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\11.PrintNumber\obj\Debug\11.PrintNumber.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\11.PrintNumber\obj\Debug\11.PrintNumber.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\11.PrintNumber\obj\Debug\11.PrintNumber.pdb

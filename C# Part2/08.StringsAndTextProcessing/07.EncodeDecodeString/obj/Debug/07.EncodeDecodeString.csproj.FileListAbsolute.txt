@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\07.EncodeDecodeString\bin\Debug\07.EncodeDecodeString.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\07.EncodeDecodeString\bin\Debug\07.EncodeDecodeString.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\07.EncodeDecodeString\bin\Debug\07.EncodeDecodeString.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\07.EncodeDecodeString\obj\Debug\07.EncodeDecodeString.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\07.EncodeDecodeString\obj\Debug\07.EncodeDecodeString.pdb

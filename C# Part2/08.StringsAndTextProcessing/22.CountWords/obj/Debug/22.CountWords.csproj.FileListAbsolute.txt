@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\22.CountWords\bin\Debug\22.CountWords.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\22.CountWords\bin\Debug\22.CountWords.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\22.CountWords\bin\Debug\22.CountWords.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\22.CountWords\obj\Debug\22.CountWords.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\22.CountWords\obj\Debug\22.CountWords.pdb

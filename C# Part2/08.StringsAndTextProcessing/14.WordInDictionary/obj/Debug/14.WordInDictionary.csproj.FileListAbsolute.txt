@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\14.WordInDictionary\bin\Debug\14.WordInDictionary.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\14.WordInDictionary\bin\Debug\14.WordInDictionary.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\14.WordInDictionary\bin\Debug\14.WordInDictionary.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\14.WordInDictionary\obj\Debug\14.WordInDictionary.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\14.WordInDictionary\obj\Debug\14.WordInDictionary.pdb

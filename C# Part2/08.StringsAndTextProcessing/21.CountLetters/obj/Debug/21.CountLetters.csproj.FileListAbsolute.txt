@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\21.CountLetters\bin\Debug\21.CountLetters.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\21.CountLetters\bin\Debug\21.CountLetters.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\21.CountLetters\bin\Debug\21.CountLetters.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\21.CountLetters\obj\Debug\21.CountLetters.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\21.CountLetters\obj\Debug\21.CountLetters.pdb

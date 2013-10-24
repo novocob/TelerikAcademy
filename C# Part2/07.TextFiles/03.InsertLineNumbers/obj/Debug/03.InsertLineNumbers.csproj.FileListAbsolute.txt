@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe.config
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.pdb
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.pdb

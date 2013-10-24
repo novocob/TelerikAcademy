@@ -1,0 +1,8 @@
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe.config
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\UsingClasesAndObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.pdb
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe.config
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.exe
+F:\Telerik\CSharpPart2\HomeWork5\UsingClasesAndObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.pdb

@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe.config
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.exe
+F:\Telerik\CSharpPart2\HomeWork6\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.pdb

@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\05.ToUpperCase\bin\Debug\05.ToUpperCase.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\05.ToUpperCase\bin\Debug\05.ToUpperCase.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\05.ToUpperCase\bin\Debug\05.ToUpperCase.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\05.ToUpperCase\obj\Debug\05.ToUpperCase.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\05.ToUpperCase\obj\Debug\05.ToUpperCase.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\05.ToUpperCase\obj\Debug\05.ToUpperCase.pdb

@@ -1,0 +1,5 @@
+This is the second file.
+It has five lines.
+Three lines are equal to first file.
+Two are different.
+End of file.

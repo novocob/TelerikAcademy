@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.pdb

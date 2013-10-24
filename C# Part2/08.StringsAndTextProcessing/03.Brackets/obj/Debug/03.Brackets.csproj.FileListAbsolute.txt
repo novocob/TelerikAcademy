@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\03.Brackets\bin\Debug\03.Brackets.exe.config
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\03.Brackets\bin\Debug\03.Brackets.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\03.Brackets\bin\Debug\03.Brackets.pdb
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\03.Brackets\obj\Debug\03.Brackets.exe
+F:\Telerik\CSharpPart2\HomeWork8\StringsAndTextProcessing\03.Brackets\obj\Debug\03.Brackets.pdb

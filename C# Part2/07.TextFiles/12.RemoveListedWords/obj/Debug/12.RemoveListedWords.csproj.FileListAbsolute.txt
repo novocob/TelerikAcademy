@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\12.RemoveListedWords\bin\Debug\12.RemoveListedWords.exe.config
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\12.RemoveListedWords\bin\Debug\12.RemoveListedWords.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\12.RemoveListedWords\bin\Debug\12.RemoveListedWords.pdb
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\12.RemoveListedWords\obj\Debug\12.RemoveListedWords.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\12.RemoveListedWords\obj\Debug\12.RemoveListedWords.exe
+F:\Telerik\CSharpPart2\HomeWork7\TextFiles\12.RemoveListedWords\obj\Debug\12.RemoveListedWords.pdb
