@@ -1,0 +1,5 @@
+F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe.config
+F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe
+F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.pdb
+F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.exe
+F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.pdb

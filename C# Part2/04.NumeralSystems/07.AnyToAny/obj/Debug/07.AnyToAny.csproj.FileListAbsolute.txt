@@ -1,0 +1,6 @@
+F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\07.AnyToAny\bin\Debug\07.AnyToAny.exe.config
+F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\07.AnyToAny\bin\Debug\07.AnyToAny.exe
+F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\07.AnyToAny\bin\Debug\07.AnyToAny.pdb
+F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\07.AnyToAny\obj\Debug\07.AnyToAny.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\07.AnyToAny\obj\Debug\07.AnyToAny.exe
+F:\Telerik\CSharpPart2\HomeWork4\NumeralSystems\07.AnyToAny\obj\Debug\07.AnyToAny.pdb
