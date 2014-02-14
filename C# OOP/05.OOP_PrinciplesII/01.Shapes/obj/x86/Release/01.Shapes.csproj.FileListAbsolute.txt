@@ -1,0 +1,15 @@
+D:\Nikola\drugi\Telerik\OOP\OOP_Principles_II\01.Shapes\01.Shapes\bin\Release\01.Shapes.exe
+D:\Nikola\drugi\Telerik\OOP\OOP_Principles_II\01.Shapes\01.Shapes\bin\Release\01.Shapes.pdb
+D:\Nikola\drugi\Telerik\OOP\OOP_Principles_II\01.Shapes\01.Shapes\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Nikola\drugi\Telerik\OOP\OOP_Principles_II\01.Shapes\01.Shapes\obj\x86\Release\01.Shapes.exe
+D:\Nikola\drugi\Telerik\OOP\OOP_Principles_II\01.Shapes\01.Shapes\obj\x86\Release\01.Shapes.pdb
+F:\Telerik\OOP\05.OOP_PrinciplesII\01.Shapes\01.Shapes\obj\x86\Release\01.Shapes.exe
+F:\Telerik\OOP\05.OOP_PrinciplesII\01.Shapes\01.Shapes\obj\x86\Release\01.Shapes.pdb
+F:\Telerik\OOP\05.OOP_PrinciplesII\01.Shapes\01.Shapes\bin\Release\01.Shapes.exe
+F:\Telerik\OOP\05.OOP_PrinciplesII\01.Shapes\01.Shapes\bin\Release\01.Shapes.pdb
+F:\Telerik\OOP\05.OOP_PrinciplesII\01.Shapes\01.Shapes\obj\x86\Release\01.Shapes.csprojResolveAssemblyReference.cache
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\01.Shapes\obj\x86\Release\01.Shapes.exe
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\01.Shapes\obj\x86\Release\01.Shapes.pdb
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\01.Shapes\bin\Release\01.Shapes.exe
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\01.Shapes\bin\Release\01.Shapes.pdb
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\01.Shapes\obj\x86\Release\01.Shapes.csprojResolveAssemblyReference.cache

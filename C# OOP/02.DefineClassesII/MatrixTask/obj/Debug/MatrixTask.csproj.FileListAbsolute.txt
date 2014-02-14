@@ -1,0 +1,1 @@
+F:\Telerik\OOP\02.DefineClassesII\Task02\MatrixTask\bin\Debug\MatrixTask.exe.config

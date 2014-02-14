@@ -1,0 +1,6 @@
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\03.Exception\bin\Release\03.Exception.exe.config
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\03.Exception\bin\Release\03.Exception.exe
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\03.Exception\bin\Release\03.Exception.pdb
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\03.Exception\obj\Release\03.Exception.csprojResolveAssemblyReference.cache
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\03.Exception\obj\Release\03.Exception.exe
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\03.Exception\obj\Release\03.Exception.pdb

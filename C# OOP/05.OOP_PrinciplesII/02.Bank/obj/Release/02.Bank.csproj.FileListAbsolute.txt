@@ -1,0 +1,6 @@
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\02.Bank\bin\Release\02.Bank.exe.config
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\02.Bank\obj\Release\02.Bank.csprojResolveAssemblyReference.cache
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\02.Bank\bin\Release\02.Bank.exe
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\02.Bank\bin\Release\02.Bank.pdb
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\02.Bank\obj\Release\02.Bank.exe
+F:\Telerik\OOP\05.OOP_PrinciplesII\OOP_Principles_II\02.Bank\obj\Release\02.Bank.pdb

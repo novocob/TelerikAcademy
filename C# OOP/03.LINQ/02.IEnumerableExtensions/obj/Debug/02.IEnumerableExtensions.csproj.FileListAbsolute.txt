@@ -1,0 +1,6 @@
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\02.IEnumerableExtensions\bin\Debug\02.IEnumerableExtensions.exe.config
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\02.IEnumerableExtensions\obj\Debug\02.IEnumerableExtensions.csprojResolveAssemblyReference.cache
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\02.IEnumerableExtensions\bin\Debug\02.IEnumerableExtensions.exe
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\02.IEnumerableExtensions\bin\Debug\02.IEnumerableExtensions.pdb
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\02.IEnumerableExtensions\obj\Debug\02.IEnumerableExtensions.exe
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\02.IEnumerableExtensions\obj\Debug\02.IEnumerableExtensions.pdb

@@ -1,0 +1,6 @@
+F:\Telerik\OOP\02.DefineClassesII\Task02\GenericList-05,06,07\obj\Debug\GenericListTask.csprojResolveAssemblyReference.cache
+F:\Telerik\OOP\02.DefineClassesII\Task02\GenericList-05,06,07\bin\Debug\GenericList-05,06,07.exe.config
+F:\Telerik\OOP\02.DefineClassesII\Task02\GenericList-05,06,07\bin\Debug\GenericList-05,06,07.exe
+F:\Telerik\OOP\02.DefineClassesII\Task02\GenericList-05,06,07\bin\Debug\GenericList-05,06,07.pdb
+F:\Telerik\OOP\02.DefineClassesII\Task02\GenericList-05,06,07\obj\Debug\GenericList-05,06,07.exe
+F:\Telerik\OOP\02.DefineClassesII\Task02\GenericList-05,06,07\obj\Debug\GenericList-05,06,07.pdb

@@ -1,0 +1,6 @@
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\01.ExtensionSubstring\bin\Debug\01.ExtensionSubstring.exe.config
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\01.ExtensionSubstring\bin\Debug\01.ExtensionSubstring.exe
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\01.ExtensionSubstring\bin\Debug\01.ExtensionSubstring.pdb
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\01.ExtensionSubstring\obj\Debug\01.ExtensionSubstring.csprojResolveAssemblyReference.cache
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\01.ExtensionSubstring\obj\Debug\01.ExtensionSubstring.exe
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\01.ExtensionSubstring\obj\Debug\01.ExtensionSubstring.pdb

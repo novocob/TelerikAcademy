@@ -1,0 +1,6 @@
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\04.StudentsAge\bin\Debug\04.StudentsAge.exe.config
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\04.StudentsAge\bin\Debug\04.StudentsAge.exe
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\04.StudentsAge\bin\Debug\04.StudentsAge.pdb
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\04.StudentsAge\obj\Debug\04.StudentsAge.exe
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\04.StudentsAge\obj\Debug\04.StudentsAge.pdb
+F:\Telerik\OOP\03.LINQ\HomeWork\ExtMethodsLambdaLINQ\04.StudentsAge\obj\Debug\04.StudentsAge.csprojResolveAssemblyReference.cache

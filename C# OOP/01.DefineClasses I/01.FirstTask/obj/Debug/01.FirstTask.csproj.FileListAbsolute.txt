@@ -1,0 +1,9 @@
+F:\Telerik\OOP\01.DefineClasses I\HomeWork\DefineClassesI\01.FirstTask\bin\Debug\01.FirstTask.exe.config
+F:\Telerik\OOP\01.DefineClasses I\HomeWork\DefineClassesI\01.FirstTask\obj\Debug\01.FirstTask.csprojResolveAssemblyReference.cache
+F:\Telerik\OOP\01.DefineClasses I\HomeWork\DefineClassesI\01.FirstTask\bin\Debug\01.FirstTask.exe
+F:\Telerik\OOP\01.DefineClasses I\HomeWork\DefineClassesI\01.FirstTask\bin\Debug\01.FirstTask.pdb
+F:\Telerik\OOP\01.DefineClasses I\HomeWork\DefineClassesI\01.FirstTask\obj\Debug\01.FirstTask.exe
+F:\Telerik\OOP\01.DefineClasses I\HomeWork\DefineClassesI\01.FirstTask\obj\Debug\01.FirstTask.pdb
+C:\Users\novocob\Documents\GitHub\TelerikAcademy\C# OOP\01.DefineClasses I\01.FirstTask\bin\Debug\01.FirstTask.exe.config
+C:\Users\novocob\Documents\GitHub\TelerikAcademy\C# OOP\01.DefineClasses I\01.FirstTask\obj\Debug\01.FirstTask.exe
+C:\Users\novocob\Documents\GitHub\TelerikAcademy\C# OOP\01.DefineClasses I\01.FirstTask\obj\Debug\01.FirstTask.pdb
