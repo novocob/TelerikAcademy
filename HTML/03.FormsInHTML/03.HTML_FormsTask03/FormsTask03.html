@@ -1,0 +1,199 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>HTML Table</title>
+    <style type="text/css">
+        table {
+            border-collapse:collapse;
+            border-radius:5px;
+            font-family:Arial;
+        }
+        thead td {
+            border:1px solid rgb(164,171,178);
+            padding:5px;
+            background-color:rgb(230,230,230);
+        }
+        tbody td {
+            border:1px solid rgb(208,215,229);
+            padding:5px;
+        }
+        tfoot {
+            border:1px solid rgb(164,171,178);
+            background-color:rgb(230,230,230);
+        }
+        tfoot td {  
+            padding:5px;
+        }
+        [type="button"] {
+            height:22px;
+            width:22px;
+            background-size:contain;
+            border:none;
+        }
+        #button-Prev { 
+            background-image:url(images/prev.png); 
+        }
+        #button-Begin{
+            background-image:url(images/begin.png); 
+        }
+        #button-Next{
+            background-image:url(images/next.png); 
+        }
+        #button-End{
+            background-image:url(images/end.png); 
+        }
+        .filter {
+            background-image:url(images/filter.png); 
+            vertical-align:middle;
+        }
+        span #text-right {
+            text-align:right;
+        }
+        a {
+            text-decoration:none;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <td colspan="6">Drag a column and drop it here to group by that column</td>
+            </tr>
+            <tr>
+                <td>ProductID</td>
+                <td>Product name</td>
+                <td>Unit price</td>
+                <td>Quantity per unit</td>
+                <td>Units in stock</td>
+                <td>Discontinued</td>
+            </tr>
+            <tr>
+                <td><input type="text" name="Product ID" size="1" /></td>
+                <td><input type="text" name="Product Name" size="16" /></td>
+                <td><input type="text" name="Unit price" size="9" /><input type="button" class="filter" /></td>
+                <td><input type="text" name="Quantity per unit" size="9" /></td>
+                <td><input type="text" name="Units in stock" size="9" /><input type="button" class="filter" /></td>
+                <td><input type="checkbox" name="Discontinued" /><input type="button" class="filter" /></td>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <td colspan="2">
+                    <input type="button" id="button-Begin" />
+                    <input type="button" id="button-Prev" />
+                    <a href="#">1</a>
+                    <a href="#">2</a>
+                    <a href="#">3</a>
+                    <a href="#">4</a>
+                    <a href="#">5</a>
+                    <a href="#">6</a>
+                    <a href="#">7</a>
+                    <a href="#">8</a>
+                    <a href="#">9</a>
+                    <a href="#">10</a>
+                    <span>...</span>
+                    <input type="button" id="button-Next"/>
+                    <input type="button" id="button-End"/>
+                </td>
+                <td colspan="2">
+                    <label for="numberOfRows">Page size:</label>
+                    <select name="numberOfRows" id="numberOfRows">
+                        <option value="5">5</option>
+                        <option value="5" selected="selected">10</option>
+                        <option value="5">20</option>
+                        <option value="5">50</option>
+                    </select>
+                </td>
+                <td colspan="2">
+                    <span id="text-right">335104 items in 33511 pages</span>
+                </td>
+            </tr>
+        </tfoot>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Chai</td>
+                <td>$18.00</td>
+                <td>10 boxes x 20 bags</td>
+                <td>39</td>
+                <td><input type="checkbox" name="Discontinued-1"/></td>
+            </tr>
+             <tr>
+                <td>2</td>
+                <td>Chang</td>
+                <td>$19.00</td>
+                <td>24-12 oz bottles</td>
+                <td>17</td>
+                <td><input type="checkbox" name="Discontinued-2"/></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Aniseed Syrup</td>
+                <td>$10.00</td>
+                <td>12-550 ml bottles</td>
+                <td>13</td>
+                <td><input type="checkbox" name="Discontinued-3"/></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Chef Anton's Cajun Seasoning</td>
+                <td>$22.00</td>
+                <td>48-6 oz jars</td>
+                <td>53</td>
+                <td><input type="checkbox" name="Discontinued-4"/></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Chef Anton's Gumbo Mix</td>
+                <td>$21.35</td>
+                <td>36 boxes</td>
+                <td>0</td>
+                <td><input type="checkbox" name="Discontinued-5"/></td>
+            </tr>
+             <tr>
+                <td>6</td>
+                <td>Grandma's Boysenberry Spread</td>
+                <td>$25.00</td>
+                <td>12-8 oz jars</td>
+                <td>120</td>
+                <td><input type="checkbox" name="Discontinued-6"/></td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Uncle Bob's Organic Dried Pears</td>
+                <td>$30.00</td>
+                <td>12-1 lb pkgs.</td>
+                <td>15</td>
+                <td><input type="checkbox" name="Discontinued-7"/></td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Northwoods Cranberry Sauce</td>
+                <td>$40.00</td>
+                <td>12-12 oz jars</td>
+                <td>6</td>
+                <td><input type="checkbox" name="Discontinued-8"/></td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Mishi Kobe Niku</td>
+                <td>$97.00</td>
+                <td>18-500 g pkgs.</td>
+                <td>29</td>
+                <td><input type="checkbox" name="Discontinued-9"/></td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Ikura</td>
+                <td>$31.00</td>
+                <td>12-200 ml jars</td>
+                <td>31</td>
+                <td><input type="checkbox" name="Discontinued-10"/></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

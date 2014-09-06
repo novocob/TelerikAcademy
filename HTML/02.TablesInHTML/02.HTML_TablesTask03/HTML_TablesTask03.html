@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Calculator</title>
+    <style>
+        table {
+            border:1px solid gray;
+        }
+        th {
+            height:30px;
+        }
+        .button {
+            width:35px;
+            height:25px;
+        }
+        .DoubleButton {
+            width:74px;
+            height:25px;
+        }
+    </style>
+</head>
+<body>
+    <form action="action.js" method="post">
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="4"><input type="text" /></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><input type="button" value="1" class="button" /></td>
+                    <td><input type="button" value="2" class="button" /></td>
+                    <td><input type="button" value="3" class="button" /></td>
+                    <td><input type="button" value="+" class="button" /></td>
+                </tr>
+                <tr>
+                    <td><input type="button" value="4" class="button" /></td>
+                    <td><input type="button" value="5" class="button" /></td>
+                    <td><input type="button" value="6" class="button" /></td>
+                    <td><input type="button" value="-" class="button" /></td>
+                </tr>
+                <tr>
+                    <td><input type="button" value="7" class="button" /></td>
+                    <td><input type="button" value="8" class="button" /></td>
+                    <td><input type="button" value="9" class="button" /></td>
+                    <td><input type="button" value="*" class="button" /></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input type="button" class="DoubleButton" value="0" /></td>
+                    <td><input type="button" value="." class="button" /></td>
+                    <td><input type="button" value="/" class="button" /></td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>
