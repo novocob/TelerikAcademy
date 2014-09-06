@@ -1,0 +1,26 @@
+body, ul, li, img, div, a {
+  padding: 0;
+  margin: 0;
+  border: none; }
+
+:target {
+  opacity: 1; }
+
+body ul {
+  text-align: left;
+  margin: 20px 20px 20px 20px; }
+  body ul li {
+    display: inline-block; }
+    body ul li img {
+      width: 150px;
+      opacity: 0.85; }
+      body ul li img:hover {
+        opacity: 1; }
+body div img {
+  height: 400px;
+  position: absolute;
+  opacity: 0;
+  margin: 0px 20px 0px 20px; }
+  body div img#pict1 {
+    opacity: 1; }
+

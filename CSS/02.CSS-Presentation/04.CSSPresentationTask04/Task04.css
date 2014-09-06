@@ -1,0 +1,148 @@
+﻿/*Reset Deafult*/
+html, body, div, span, ul, li,
+fieldset, form, label, footer, header, hgroup, 
+nav, section {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body .calculator {
+    border:1px solid black;
+    margin:10px; 
+    font-family:'Segoe UI', sans-serif;
+    width:410px;
+    height:350px;
+    position:relative; 
+}
+section  {
+    background:  -webkit-linear-gradient(rgb(245,255,255) 0%, rgb(217,228,241) 20%, rgb(217,228,241) 21%, rgb(217,228,241) 100%);
+    background:     -moz-linear-gradient(rgb(245,255,255) 0%, rgb(217,228,241) 20%, rgb(217,228,241) 21%, rgb(217,228,241) 100%);
+    background:       -o-linear-gradient(rgb(245,255,255) 0%, rgb(217,228,241) 20%, rgb(217,228,241) 21%, rgb(217,228,241) 100%);
+    background:          linear-gradient(rgb(245,255,255) 0%, rgb(217,228,241) 20%, rgb(217,228,241) 21%, rgb(217,228,241) 100%);
+    
+}
+
+/*Navigation Area*/
+nav {
+    border-bottom:1px solid rgb(134,150,170);
+    font-size:12px;
+    height:18px;
+    background: -webkit-linear-gradient(rgb(255,255,255) 0%, rgb(229,234,245) 34%, rgb(212,219,238) 35%, rgb(225,230,246) 100%);
+    background:    -moz-linear-gradient(rgb(255,255,255) 0%, rgb(229,234,245) 34%, rgb(212,219,238) 35%, rgb(225,230,246) 100%);
+    background:      -o-linear-gradient(rgb(255,255,255) 0%, rgb(229,234,245) 34%, rgb(212,219,238) 35%, rgb(225,230,246) 100%);
+    background:         linear-gradient(rgb(255,255,255) 0%, rgb(229,234,245) 34%, rgb(212,219,238) 35%, rgb(225,230,246) 100%);
+}
+nav ul li {
+    display:inline;
+    list-style:none; 
+    padding:5px;
+}
+
+/*Display Area 1*/
+#displayArea1 {
+    margin:10px 10px 5px 10px;
+}
+#displayArea1 input {
+    font-size:24px;
+    font-family:Consolas, sans-serif; 
+    text-align:right;
+    width:386px;
+    height:43px;
+    border:1px solid rgb(134,150,170); 
+    border-radius:3px;
+    background: -webkit-linear-gradient(rgb(217,235,247), rgb(255,255,255));
+    background:    -moz-linear-gradient(rgb(217,235,247), rgb(255,255,255));
+    background:      -o-linear-gradient(rgb(217,235,247), rgb(255,255,255));
+    background:         linear-gradient(rgb(217,235,247), rgb(255,255,255));
+}
+
+/*Display Area 2*/
+#displayArea2 {
+    border:1px solid rgb(134,150,170);
+    border-radius:3px;
+    margin:5px 10px;
+    font-size:13px;
+    font-family:Consolas, sans-serif; 
+}
+#displayArea2 .inline li {
+    display:inline;
+    list-style:none;
+    margin:10px;
+}
+
+/*Radio Areas*/
+.radio ul {
+    list-style:none;
+    padding:1px;
+    margin:0px; 
+}
+.radio ul li{
+    padding:1px;
+    font-size:12px;  
+}
+.radioArea {
+    border:1px solid rgb(134,150,170);
+    border-radius:3px;
+    width:70px;
+    height:88px;
+    padding:1px;
+    margin:5px 5px 5px 10px;  
+}
+
+/*Button Area*/
+#buttonArea {
+    position:absolute; right:10px; bottom:10px;   
+}
+#buttonArea .short {
+    width:272px;
+}
+    #buttonArea button {
+        width:35px;
+        height:28px;
+        margin:2px 0px;
+        font-family:'Segoe UI', sans-serif;
+        font-size:12px;
+        padding:2px;
+        border:1px solid rgb(134,150,170);
+        border-radius:3px;
+    }
+        #buttonArea button.Gradient-1, #double-vertical{
+            background:  -webkit-linear-gradient(rgb(238,244,250) 0%, rgb(224,232,241) 50%, rgb(213,224,238) 21%, rgb(213,224,238) 100%);
+            background:     -moz-linear-gradient(rgb(238,244,250) 0%, rgb(224,232,241) 50%, rgb(213,224,238) 21%, rgb(213,224,238) 100%);
+            background:       -o-linear-gradient(rgb(238,244,250) 0%, rgb(224,232,241) 50%, rgb(213,224,238) 21%, rgb(213,224,238) 100%);
+            background:          linear-gradient(rgb(238,244,250) 0%, rgb(224,232,241) 50%, rgb(213,224,238) 21%, rgb(213,224,238) 100%);
+        }
+        #buttonArea button.Gradient-2 {
+            background:  -webkit-linear-gradient(rgb(246,250,254) 0%, rgb(238,243,248) 50%, rgb(232,238,245) 21%, rgb(235,242,250) 100%);
+            background:     -moz-linear-gradient(rgb(246,250,254) 0%, rgb(238,243,248) 50%, rgb(232,238,245) 21%, rgb(235,242,250) 100%);
+            background:       -o-linear-gradient(rgb(246,250,254) 0%, rgb(238,243,248) 50%, rgb(232,238,245) 21%, rgb(235,242,250) 100%);
+            background:          linear-gradient(rgb(246,250,254) 0%, rgb(238,243,248) 50%, rgb(232,238,245) 21%, rgb(235,242,250) 100%);
+        }
+        #buttonArea button.NoGradient {
+            background-color:rgb(217,228,241);
+        }
+        #buttonArea button#double {
+            width:75px;
+            height:28px;
+        }
+        #buttonArea button#double-vertical {
+            width:35px;
+            height:60px;
+        }
+        #buttonArea button:hover {
+            background:  -webkit-linear-gradient(rgb(254,238,222) 0%, rgb(253,228,203) 50%, rgb(251,208,116) 21%, rgb(251,237,144) 100%);
+            background:     -moz-linear-gradient(rgb(254,238,222) 0%, rgb(253,228,203) 50%, rgb(251,208,116) 21%, rgb(251,237,144) 100%);
+            background:       -o-linear-gradient(rgb(254,238,222) 0%, rgb(253,228,203) 50%, rgb(251,208,116) 21%, rgb(251,237,144) 100%);
+            background:          linear-gradient(rgb(254,238,222) 0%, rgb(253,228,203) 50%, rgb(251,208,116) 21%, rgb(251,237,144) 100%);
+        }
+    #buttonArea #singleButton {
+        position:absolute;
+        bottom:0px;
+        right:0px;
+    }
+
+        

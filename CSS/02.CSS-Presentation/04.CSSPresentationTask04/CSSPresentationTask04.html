@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Calculator</title>
+    <link href="Task04.css" rel="stylesheet" />
+</head>
+<body>
+    <section class="calculator">
+    <header>
+        <nav>
+            <ul>
+                <li>View</li>
+                <li>Edit</li>
+                <li>Help</li>
+            </ul>
+        </nav>
+    </header>
+    <section id="forms">
+        <div id="displayArea1">
+            <input type="text" name="display" value="8854455" />
+        </div>
+
+        <div id="displayArea2">
+            <ul class="inline">
+                <li>0000</li><li>0000</li><li>0000</li><li>0000</li><li>0000</li><li>0000</li><li>0000</li><li>0000</li>
+            </ul>
+            <ul class="inline">
+                <li>63&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;47</li> 
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32</li>
+            </ul>
+            <ul class="inline">
+                <li>0000</li><li>0000</li><li>1000</li><li>0111</li><li>0001</li><li>1011</li><li>1011</li><li>0111</li>
+            </ul>
+            <ul class="inline">
+                <li>31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </li>
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15  </li>
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0</li>
+            </ul>
+        </div>
+
+        <form class="radio">
+            <fieldset class="radioArea">
+            <ul>
+                <li><label><input type="radio" name="numeralSystem" value="hex" />Hex</label></li>
+                <li><label><input type="radio" name="numeralSystem" value="dec" checked="checked" />Dec</label></li>
+                <li><label><input type="radio" name="numeralSystem" value="oct" />Oct</label></li>
+                <li><label><input type="radio" name="numeralSystem" value="bin" />Bin</label></li>
+            </ul>
+            </fieldset>
+        </form>
+
+        <form class="radio">
+            <fieldset class="radioArea">
+            <ul>
+                <li><label><input type="radio" name="Size" value="hex" checked="checked" />Qword</label></li>
+                <li><label><input type="radio" name="Size" value="dec" />Dword</label></li>
+                <li><label><input type="radio" name="Size" value="oct" />Word</label></li>
+                <li><label><input type="radio" name="Size" value="bin" />Byte</label></li>
+            </ul>
+            </fieldset>
+        </form>
+
+        <form id="buttonArea">
+            <div>
+                <button class="NoGradient">&nbsp;</button>
+                <button class="Gradient-1">Mod</button>
+                <button class="NoGradient">A</button>
+                <button class="NoGradient">MC</button>
+                <button class="NoGradient">MR</button>
+                <button class="NoGradient">MS</button>
+                <button class="NoGradient">M+</button>
+                <button class="NoGradient">M-</button>
+            </div>
+            <div>
+                <button class="Gradient-1">(</button>
+                <button class="Gradient-1">)</button>
+                <button class="NoGradient">B</button>
+                <button class="Gradient-1">←</button>
+                <button class="Gradient-1">CE</button>
+                <button class="Gradient-1">C</button>
+                <button class="Gradient-1">&plusmn;</button>
+                <button class="NoGradient">√</button>
+            </div>
+            <div>
+                <button class="Gradient-1">RoL</button>
+                <button class="Gradient-1">RoR</button>
+                <button class="NoGradient">C</button>
+                <button class="Gradient-2">7</button>
+                <button class="Gradient-2">8</button>
+                <button class="Gradient-2">9</button>
+                <button class="Gradient-1">/</button>
+                <button class="NoGradient">%</button>
+            </div>
+            <div>
+
+                <button class="Gradient-1">Or</button>
+                <button class="Gradient-1">Xor</button>
+                <button class="NoGradient">D</button>
+                <button class="Gradient-2">4</button>
+                <button class="Gradient-2">5</button>
+                <button class="Gradient-2">6</button>
+                <button class="Gradient-1">*</button>
+                <button class="NoGradient">1/x</button>
+            </div>
+            <div class="short">
+                <button class="Gradient-1">Lsh</button>
+                <button class="Gradient-1">Rsh</button>
+                <button class="NoGradient">E</button>
+                <button class="Gradient-2">1</button>
+                <button class="Gradient-2">2</button>
+                <button class="Gradient-2">3</button>
+                <button class="Gradient-1">-</button>
+                
+            </div>
+            <div class="short">
+                <button class="Gradient-1">Not</button>
+                <button class="Gradient-1">And</button>
+                <button class="NoGradient">F</button>
+                <button class="Gradient-1" id="double">0</button>
+                <button class="NoGradient">.</button>
+                <button class="Gradient-1">+</button>
+            </div>
+            <div id="singleButton">
+                <button class="NoGradient" id="double-vertical">=</button>
+            </div>
+        </form>
+    </section>
+    </section>
+</body>
+</html>

@@ -1,0 +1,21 @@
+        ul {
+            list-style-type:none;
+            padding-left:10px;
+        }
+            ul li a {
+                text-decoration:none;
+            }
+            ul li ul {
+                display:none;
+                color:gray;
+                
+            }
+            ul li:hover ul {
+                display:block;
+            }
+             ul li ul li a {
+                color:gray;
+            }
+        a:hover {
+            text-decoration:underline;
+        }

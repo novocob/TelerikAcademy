@@ -1,0 +1,38 @@
+﻿body {
+    font-family:Tahoma;
+    font-weight:bold;
+    background-color:RGB(89,89,89);
+}
+th {
+    font: 28px/32px Arial;
+    text-align:left;
+    padding-bottom:15px;
+    color:RGB(176,176,176);
+}
+.LeftCol {
+    font-style:italic;
+    color:RGB(229,229,229);
+}
+a {
+    text-decoration:none;
+    color:RGB(247,237,167);
+}
+a:hover {
+    background-color:rgb(117, 181, 116);
+}
+td {
+    padding: 7px;
+    color:RGB(176,176,176);
+}
+#RedText {
+    color:RGB(246,14,35);
+}
+#OrangeText {
+    color:RGB(229,108,38);
+}
+#GreenDot {
+     font-size: 30px;
+     line-height: 15px;
+     vertical-align:top;
+     color:RGB(115,179,123);
+}  
