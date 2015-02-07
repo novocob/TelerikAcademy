@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Operators-Expresions - Task03</title>
+    <!-- Write an expression that calculates rectangle’s area by given width and height.-->
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console">
+        <label for="height">Height: </label>
+        <input type="text" id="height" />
+        <br />
+        <label fpr="width">Width:</label>
+        <input type="text" id="width" />
+        <br />
+        <input type="button" id="calculateArea" value="Calculate" onclick="calculateArea()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function calculateArea() {
+	        var height = jsConsole.readFloat("#height");
+	        var width = jsConsole.readFloat("#width");
+	        jsConsole.writeLine("Rectangle's area is: " + (height * width));
+	    }
+	</script>
+</body>
+</html>

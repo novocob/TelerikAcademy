@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Arrays-Task05</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Write a script to sort an array. Use the "selection sort" algorithm.-->
+</head>
+<body>
+    <div id="js-console">
+        <label for="array">Enter some numbers separated by spaces:</label>
+        <input type="text" id="array" />
+        <br/>
+        <button id="button" value="SortArray" onclick="sortArray()">Sort Array</button>
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function sortArray() {
+            //enter and parse the array
+            var userInput = jsConsole.read("#array");
+            var arr = userInput.split(' ');
+            for (var i = 0; i < arr.length; i++) {
+                arr[i] = parseFloat(arr[i]);
+            }
+            
+            for (var currentIndex = 0; currentIndex < arr.length; currentIndex++) {
+                var minNumber = arr[currentIndex];
+                var minNumberIndex = currentIndex;
+                //find the min element in the unsorted part of array
+                for (var j = currentIndex; j < arr.length; j++) {
+                    if (arr[j] < minNumber) {
+                        minNumber = arr[j];
+                        minNumberIndex = j;
+                    }
+                }
+                //swap first element and min element
+                var temp = arr[currentIndex];
+                arr[currentIndex] = arr[minNumberIndex];
+                arr[minNumberIndex] = temp;
+            }
+
+            //print result
+            for (var i = 0; i < arr.length; i++) {
+                jsConsole.write(arr[i] + ' ');
+            }
+            jsConsole.writeLine();
+        }
+    </script>
+</body>
+</html>
+

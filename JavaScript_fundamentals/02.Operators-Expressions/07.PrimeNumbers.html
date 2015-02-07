@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Operators-Expresions - Task07</title>
+    <!-- Write an expression that checks if given 
+        positive integer number n (n ≤ 100) is prime. E.g. 37 is prime.-->
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console">
+        <label for="inputNimber">Enter integer number : </label>
+        <input type="text" id="inputNumber" />
+        <br />
+        <input type="button" id="checkNumber" value="Check" onclick="checkNumber()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function checkNumber() {
+	        var inputNumber = jsConsole.readInteger("#inputNumber");
+	        var biggestDivNum = Math.sqrt(inputNumber);
+	        var check = true;
+	        for (var i = 2; i <= biggestDivNum; i++)
+	        {
+	            if (inputNumber % i == 0)
+	            {
+	                check = false;
+	            }
+	        }
+	        jsConsole.writeLine(check ? inputNumber + " is prime." : inputNumber + " is not prime.")
+	    }
+	</script>
+</body>
+</html>

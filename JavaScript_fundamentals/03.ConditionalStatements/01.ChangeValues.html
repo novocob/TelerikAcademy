@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Conditional Statements - Task 01</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Write an if statement that examines two integer variables and 
+    exchanges their values if the first one is greater than the second one.-->
+</head>
+<body>
+    <div id="js-console">
+        <label for="firstNumber">Enter first integer number: </label>
+        <input type="text" id="firstNumber" />
+        <br />
+        <label for="secondNumber">Enter second integer number: </label>
+        <input type="text" id="secondNumber" />
+        <br />
+        <input type="button" id="checkNumber" value="Check" onclick="checkNumbers()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function checkNumbers() {
+	        var firstNumber = jsConsole.readInteger("#firstNumber");
+	        var secondNumber = jsConsole.readInteger("#secondNumber");
+	        var tempNumber;
+	        if (firstNumber > secondNumber) {
+	            tempNumber = secondNumber;
+	            secondNumber = firstNumber;
+	            firstNumber = tempNumber;
+	        }
+	        jsConsole.writeLine("first number = " + firstNumber);
+	        jsConsole.writeLine("second number = " + secondNumber);
+
+	    }
+	</script>
+</body>
+</html>

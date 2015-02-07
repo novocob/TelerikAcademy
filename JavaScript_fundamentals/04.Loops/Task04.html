@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+     <title>Conditional Statements - Task 01</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Write a script that finds the lexicographically smallest and 
+        largest property in document, window and navigator objects.-->
+</head>
+<body>
+    <div id="js-console">
+        <input type="button" id="document" value="Min and max property in document" onclick="findMinMax(document)"/>
+        <input type="button" id="window" value="Min and max property in window" onclick="findMinMax(window)"/>
+        <input type="button" id="navigator" value="Min and max property in navigator" onclick="findMinMax(navigator)"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function findMinMax(obj) {
+	        var minProperty = "z";
+	        var maxProperty = "a";
+
+	        for (var property in obj){
+	            if (property > maxProperty) {
+	                maxProperty = property;
+	            }
+	        if (property < minProperty) {
+	            minProperty = property;
+	            }
+	        }
+	        jsConsole.writeLine("Object: " + obj);
+	        jsConsole.writeLine("Min: " + minProperty);
+	        jsConsole.writeLine("Max: " + maxProperty);
+	        jsConsole.writeLine();
+	    }
+	</script>
+</body>
+</html>

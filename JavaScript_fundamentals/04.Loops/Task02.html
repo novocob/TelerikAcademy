@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Conditional Statements - Task 01</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Write a script that prints all the numbers from 1 to N, 
+        that are not divisible by 3 and 7 at the same time.-->
+</head>
+<body>
+    <div id="js-console">
+        <label for="numberN">Enter integer number N: </label>
+        <input type="text" id="numberN" />
+        <br />
+        <input type="button" id="printNumbers" value="Print numbers" onclick="printNumbers()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function printNumbers() {
+	        var numberN = jsConsole.readInteger("#numberN");
+	        for (var i = 1; i <= numberN; i++) {
+	            if (i % 21 != 0) {
+	                jsConsole.write(i + " ");
+	            }
+	        }
+	    }
+	</script>
+</body>
+</html>
+
+

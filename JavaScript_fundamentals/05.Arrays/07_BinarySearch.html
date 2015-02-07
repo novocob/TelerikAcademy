@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Arrays-Task07</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Write a script that allocates array of 20 integers and 
+        initializes each element by its index multiplied by 5. 
+        Print the obtained array on the console.-->
+</head>
+<body>
+    <div id="js-console">
+        <p>This is sorted array:</p>
+        <p>1, 3, 5, 7, 9, 11</p>
+        <label for="number">Enter a number from the array:</label>
+        <input type="text" id="number" />
+        <br/>
+        <button id="button" value="FindIndex" onclick="findIndex()">Find the index of the number</button>
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function findIndex() {
+            var arr = [1, 3, 5, 7, 9, 11];
+            var number = jsConsole.readInteger('#number');
+
+            var leftEndIndex = 0;
+            var rightEndIndex = arr.length - 1;
+            var currentIndex = Math.floor((rightEndIndex - leftEndIndex) / 2);
+            var newCurrentIndex;
+            var notFound = false;
+
+            //if number is too small or too big we skip the binary search loop
+            if ((number < arr[0]) || (number > arr[arr.length - 1])){
+                notFound = true;
+            }
+            if (number != arr[arr.length - 1]) {
+                // binary search loop
+                while ((number != arr[currentIndex]) && (notFound==false)) {
+                    if (number > arr[currentIndex]) {
+                        leftEndIndex = currentIndex;
+                    }
+                    else {
+                        rightEndIndex = currentIndex;
+                    }
+                    newCurrentIndex = Math.floor((rightEndIndex - leftEndIndex) / 2) + leftEndIndex;
+                    //if currentIndex = newCurrentIndex then we have checked all possibilities
+                    //and the number is not found
+                    if (currentIndex == newCurrentIndex) {
+                        notFound = true;
+                    }
+                    else {
+                        currentIndex = newCurrentIndex;
+                    }
+                }
+            }
+            else {
+                currentIndex = arr.length - 1;
+            }
+
+            //print the result
+            if (notFound == false) {
+                jsConsole.writeLine('The index of the number is: ' + currentIndex);
+            }
+            else {
+                jsConsole.writeLine('The number is not found in the array!');
+            }
+        }
+    </script>
+</body>
+</html>

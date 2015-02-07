@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Conditional Statements - Task 07</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Write a script that finds the greatest of given 5 variables.-->
+</head>
+<body>
+    <div id="js-console">
+        <p>Enter five numbers:</p>
+        <label for="firstNumber">First number: </label>
+        <input type="text" id="firstNumber" />
+        <br />
+        <label for="secondNumber">Second number: </label>
+        <input type="text" id="secondNumber" />
+        <br />
+        <label for="thirdNumber">Third number: </label>
+        <input type="text" id="thirdNumber" />
+        <br />
+        <label for="fourthNumber">Fourth number: </label>
+        <input type="text" id="fourthNumber" />
+        <br />
+        <label for="fifthNumber">Fifth number: </label>
+        <input type="text" id="fifthNumber" />
+        <br />
+        <input type="button" id="FindGreatest" value="Find greatest number" onclick="findGreatest()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function findGreatest() {
+	        var numbers = new Array(5);
+	        numbers[0] = jsConsole.readFloat("#firstNumber");
+	        numbers[1] = jsConsole.readFloat("#secondNumber");
+	        numbers[2] = jsConsole.readFloat("#thirdNumber");
+	        numbers[3] = jsConsole.readFloat("#fourthNumber");
+	        numbers[4] = jsConsole.readFloat("#fifthNumber");
+
+	        var greatest = numbers[0];
+	        for (var i = 1; i < numbers.length; i++) {
+	            if (numbers[i] > greatest) {
+	                greatest = numbers[i];
+	            }  
+	        }
+	        jsConsole.writeLine("The greatest number is " + greatest);
+	    }
+    </script>
+</body>
+</html>

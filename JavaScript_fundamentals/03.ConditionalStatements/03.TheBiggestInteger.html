@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Conditional Statements - Task 03</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Write a script that finds the biggest of three integers using nested if statements.-->
+</head>
+<body>
+    <div id="js-console">
+        <p>Enter three integer numbers:</p>
+        <label for="firstNumber">Enter first number: </label>
+        <input type="text" id="firstNumber" />
+        <br />
+        <label for="secondNumber">Enter second number: </label>
+        <input type="text" id="secondNumber" />
+        <br />
+        <label for="thirdNumber">Enter third number: </label>
+        <input type="text" id="thirdNumber" />
+        <br />
+        <input type="button" id="checkNumber" value="Check" onclick="findBiggestNumber()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function findBiggestNumber()
+	    {
+	        var firstNumber = jsConsole.readInteger("#firstNumber");
+	        var secondNumber = jsConsole.readInteger("#secondNumber");
+	        var thirdNumber = jsConsole.readInteger("#thirdNumber");
+	        var biggerNumber;
+	        if (firstNumber >= secondNumber)
+	        {
+	            if(firstNumber >= thirdNumber)
+	            {
+	                biggerNumber = firstNumber;
+	            }
+	            else
+	            {
+	                biggerNumber = thirdNumber;
+	            }
+	        }
+	        else
+	        {
+	            if(secondNumber >= thirdNumber)
+	            {
+	                biggerNumber = secondNumber;
+	            }
+	            else
+	            {
+	                biggerNumber = thirdNumber;
+	            }
+	        }
+	        jsConsole.writeLine("The bigger number is " + biggerNumber);
+	    }
+    </script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Conditional Statements - Task 04</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Sort 3 real values in descending order using nested if statements.-->
+</head>
+<body>
+        <div id="js-console">
+        <p>Enter three numbers:</p>
+        <label for="firstNumber">Enter first number: </label>
+        <input type="text" id="firstNumber" />
+        <br />
+        <label for="secondNumber">Enter second number: </label>
+        <input type="text" id="secondNumber" />
+        <br />
+        <label for="thirdNumber">Enter third number: </label>
+        <input type="text" id="thirdNumber" />
+        <br />
+        <input type="button" id="checkNumber" value="Check" onclick="sortDescending()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function sortDescending() {
+	        var firstNumber = jsConsole.readFloat("#firstNumber");
+	        var secondNumber = jsConsole.readFloat("#secondNumber");
+	        var thirdNumber = jsConsole.readFloat("#thirdNumber");
+	        var biggerNumber;
+	        if (firstNumber >= secondNumber) {
+	            if (secondNumber >= thirdNumber) {
+	                jsConsole.writeLine(firstNumber + ", " + secondNumber + ", " + thirdNumber);
+	            }
+	            else {
+	                if (firstNumber >= thirdNumber) {
+	                    jsConsole.writeLine(firstNumber + ", " + thirdNumber + ", " + secondNumber);
+	                }
+	                else {
+	                    jsConsole.writeLine(thirdNumber + ", " + firstNumber + ", " + secondNumber);
+	                }
+	            }
+	        }
+	        else {
+	            if (secondNumber < thirdNumber) {
+	                jsConsole.writeLine(thirdNumber + ", " + secondNumber + ", " + firstNumber);
+	            }
+	            else {
+	                if (firstNumber >= thirdNumber) {
+	                    jsConsole.writeLine(secondNumber + ", " + firstNumber + ", " + thirdNumber);
+	                }
+	                else 
+	                {
+	                    jsConsole.writeLine(secondNumber + ", " + thirdNumber + ", " + firstNumber);
+                    }
+	            }
+	        }
+	    }
+    </script>
+</body>
+</html>

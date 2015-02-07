@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Operators-Expresions - Task04</title>
+    <!-- Write an expression that checks for given integer 
+        if its third digit (right-to-left) is 7. E. g. 1732  true.-->
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console">
+        <label for="inputNumber">Input integer number: </label>
+        <input type="text" id="inputNumber" />
+        <br />
+        <input type="button" id="checkNumber" value="Check" onclick="checkNumber()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function checkNumber() {
+	        var inputNumber = jsConsole.readInteger("#inputNumber");
+	        if ((inputNumber % 1000 >= 700) && (inputNumber % 1000 < 800)) {
+	            jsConsole.writeLine("third digit right-to-left is 7");
+	        }
+	        else {
+	            jsConsole.writeLine("third digit right-to-left is NOT 7");
+	        }
+	    }
+	</script>
+</body>
+</html>

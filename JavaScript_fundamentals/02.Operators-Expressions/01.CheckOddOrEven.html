@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Operators-Expresions - Task01</title>
+    <!-- Write an expression that checks if given integer is odd or even. -->
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console">
+        <label for="inputNumber">Input integer number: </label>
+        <input type="text" id="inputNumber" />
+        <br />
+        <input type="button" id="checkNumber" value="Check" onclick="checkNumber()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function checkNumber() {
+	        var inputNumber = jsConsole.readInteger("#inputNumber");
+	        if (inputNumber % 2 == 0) {
+	            jsConsole.writeLine(inputNumber + " is even");
+	        }
+	        else {
+	            jsConsole.writeLine(inputNumber + " is odd");
+	        }
+	    }
+	</script>
+</body>
+</html>

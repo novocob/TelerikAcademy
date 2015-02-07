@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Conditional Statements - Task 05</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Write script that asks for a digit and depending on the input 
+        shows the name of that digit (in English) using a switch statement.-->
+</head>
+<body>
+    <div id="js-console">
+        <label for="digit">Enter a digit: </label>
+        <input type="text" id="digit" />
+        <br />
+        <input type="button" id="show" value="Digit in English" onclick="showInEnglish()"/>
+    </div>
+    <script src="scripts/js-console.js"></script>
+	<script>
+	    function showInEnglish()
+	    {
+	        var digit = jsConsole.readInteger("#digit");
+	        var digitEnglish;
+	        switch (digit)
+	        {
+	            case 0: digitEnglish = "zero"; break;
+	            case 1: digitEnglish = "one"; break;
+	            case 2: digitEnglish = "two"; break;
+	            case 3: digitEnglish = "three"; break;
+	            case 4: digitEnglish = "four"; break;
+	            case 5: digitEnglish = "five"; break;
+	            case 6: digitEnglish = "six"; break;
+	            case 7: digitEnglish = "seven"; break;
+	            case 8: digitEnglish = "eight"; break;
+	            case 9: digitEnglish = "nine"; break;
+	            default: digitEnglish = "Wrong input!"; break; 
+	        }
+	        jsConsole.writeLine(digitEnglish);
+	    }
+	</script>
+</body>
+</html>

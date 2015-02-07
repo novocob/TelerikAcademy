@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>DataTypesAndVariables-AllTasks</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <!--1.Assign all the possible JavaScript literals to different variables.
+        2.Create a string variable with quoted text in it. For example: 'How you doin'?', Joey said.
+        3.Try typeof on all variables you created.
+        4.Create null, undefined variables and try typeof on them.-->
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        //Integer literals
+        var number = 5;
+        //Floating-point literal
+        var fpNumber = 2.65;
+        //String literal
+        var word = 'town';
+        //Boolean literal
+        var bool = false;
+        //Array literal
+        var myArray = [ 12, 5, 8, 2];
+        //Object literal
+        var car = { model: 'Opel Astra', year: '2008', owner: 'Pesho Peshov' };
+
+        //string variable with quoted text in it
+        var sentence = 'Little Red then says, "What a big mouth you have!".';
+
+        //typeof
+        jsConsole.writeLine("Type of number: " + typeof number);
+        jsConsole.writeLine("Type of fpNumber: " + typeof fpNumber);
+        jsConsole.writeLine("Type of word: " + typeof word);
+        jsConsole.writeLine("Type of bool: " + typeof bool);
+        jsConsole.writeLine("Type of myArray: " + typeof myArray);
+        jsConsole.writeLine("Type of car: " + typeof car);
+
+        //null and undefined
+        var nullVariable = null;
+        var undefinedVariable = undefined;
+        jsConsole.writeLine("Type of nullVariable: " + typeof nullVariable);
+        jsConsole.writeLine("Type of undefinedVariable: " + typeof undefinedVariable);
+    </script>
+</body>
+</html>

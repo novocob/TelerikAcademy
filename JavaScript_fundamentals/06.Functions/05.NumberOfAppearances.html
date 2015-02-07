@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Functions-Task05</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <!--Write a function that counts how many times given number appears in given array. 
+        Write a test function to check if the function is working correctly.-->
+</head>
+<body>
+    <div id="js-console">
+        <label for="array">Enter array of numbers separated by spaces:</label>
+        <input type="text" id="array" />
+        <br/>
+        <label for="array">Enter which number to search in array:</label>
+        <input type="text" id="number" />
+        <button id="buttonSearch" value="searchNumber" onclick="mainFunction()">Search</button>
+        <br/>
+        <button id="buttonTest" value="testFunction" onclick="testFunction()">Start test function</button>
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function mainFunction() {
+            var userArray = jsConsole.read("#array");
+            var userNumber = parseFloat(jsConsole.read("#number"));
+            var result = searchNumber(userArray, userNumber);
+            jsConsole.writeLine('Number ' + userNumber + ' appears ' + result + ' times');
+        }
+
+        function searchNumber(userArray, userNumber){
+            var arr = userArray.split(' ');
+            for (var i = 0; i < arr.length; i++) {
+                arr[i] = parseFloat(arr[i]);
+            }
+            var count = 0;
+            for (var i = 0; i < arr.length; i++) {
+                if (arr[i] === userNumber) {
+                    count++;
+                }
+            }
+                return count;
+        }
+
+        function testFunction(){
+            var testArray = '2 2 5 5 5 9';
+            var testNumber1 = 2;
+            var testNumber2 = 5;
+            var testNumber3 = 10;
+
+            jsConsole.writeLine('Test array: 2 2 5 5 5 9');
+            jsConsole.writeLine('Test 1 - search number 2');
+            if (searchNumber(testArray, testNumber1) == 2) {
+                jsConsole.writeLine('passed');
+            } else {
+                jsConsole.writeLine('failed');
+            }
+            jsConsole.writeLine('Test 2 - search number 5');
+            if (searchNumber(testArray, testNumber2) == 3) {
+                jsConsole.writeLine('passed');
+            } else {
+                jsConsole.writeLine('failed');
+            }
+            jsConsole.writeLine('Test 3 - search number 10');
+            if (searchNumber(testArray, testNumber3) == 0) {
+                jsConsole.writeLine('passed');
+            }
+            else {
+                jsConsole.writeLine('failed');
+            }
+        }
+    </script>
+</body>
+</html>

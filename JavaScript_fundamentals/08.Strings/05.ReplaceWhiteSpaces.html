@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Strings-Task05</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <!--Write a function that replaces non breaking white-spaces in a text with &nbsp;
+-->
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        var text = 'This    is an example text  . White spaces     will be replaced.';
+
+        var resultText = text.split(' ').join('&nbsp;');
+
+        jsConsole.writeLine('Input text: ');
+        jsConsole.writeLine(resultText);
+        jsConsole.writeLine();
+        jsConsole.writeLine('Output text: ');
+        jsConsole.writeLine(text);
+    </script>
+</body>
+</html>

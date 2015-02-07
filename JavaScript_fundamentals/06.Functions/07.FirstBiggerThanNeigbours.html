@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Functions-Task06</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <!--Write a function that returns the index of the first element in array 
+        that is bigger than its neighbors, or -1, if there’s no such element.
+        Use the function from the previous exercise.-->
+</head>
+<body>
+    <div id="js-console">
+        <label for="array">Enter array of numbers separated by spaces:</label>
+        <input type="text" id="array" />
+        <br/>
+        <button id="search" value="search" onclick="mainFunction()">Search</button>
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function mainFunction() {
+            var userArray = jsConsole.read("#array");
+            var arr = userArray.split(' ');
+            for (var i = 0; i < arr.length; i++) {
+                arr[i] = parseFloat(arr[i]);
+            }
+
+            var index = -1;
+            for (var i = 1; i < arr.length - 1; i++) {
+                var result = checkNeighbours(arr, i);
+                if (result == true) {
+                    index = i;
+                    break;
+                }
+            }
+
+            jsConsole.writeLine('Result: ' + index);    
+        }
+
+        //this is the function form the previous task
+        function checkNeighbours(array, index) {
+            var bool = false;
+            if ((index > 0) && (index < array.length - 1)) {
+                if ((array[index] > array[index - 1]) && (array[index] > array[index + 1])) {
+                    bool = true;
+                }
+            }
+            return bool;
+        }
+    </script>
+</body>
+</html>

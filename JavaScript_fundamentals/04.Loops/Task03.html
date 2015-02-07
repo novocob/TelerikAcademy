@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Conditional Statements - Task 01</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Write a script that finds the max and min number from a sequence of numbers.-->
+</head>
+<body>
+    <div id="js-console">
+        <label for="sequence">Enter a sequence of numbers separated by spaces: </label>
+        <input type="text" id="sequence" />
+        <br />
+        <input type="button" id="findMinMax" value="Find min ans max" onclick="findMinMax()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function findMinMax() {
+	        var sequence = jsConsole.read("#sequence");
+	        var array = sequence.split(" ");
+			for (var i = 0; i < array.length; i++) {
+				array[i] = parseFloat(array[i]);
+			}
+
+	        var minNumber;
+	        var maxNumber;
+	        minNumber = maxNumber = array[0];
+	        for (var j = 1; j <array.length; j++) {
+	            if (array[j] > maxNumber)
+	            {
+	                maxNumber = array[j];
+	            }
+	            if (array[j] < minNumber)
+	            {
+	                minNumber = array[j];
+	            }
+	        }
+	        jsConsole.writeLine("Max number is: " + maxNumber);
+	        jsConsole.writeLine("Min number is: " + minNumber);
+	    }
+	</script>
+</body>
+</html>
+
+
+

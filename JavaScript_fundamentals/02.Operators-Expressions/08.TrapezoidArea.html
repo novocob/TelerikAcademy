@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Operators-Expresions - Task08</title>
+    <!-- Write an expression that calculates trapezoid's area 
+        by given sides a and b and height h.-->
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console">
+        <label for="sideA">Side A: </label>
+        <input type="text" id="sideA" />
+        <br />
+        <label for="sideB">Side B: </label>
+        <input type="text" id="sideB" />
+        <br />
+        <label for="height">Height: </label>
+        <input type="text" id="height" />
+        <br />
+        <input type="button" id="calculateArea" value="Calculate" onclick="calculateArea()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function calculateArea() {
+	        var sideA = jsConsole.readFloat("#sideA");
+	        var sideB = jsConsole.readFloat("#sideB");
+	        var height = jsConsole.readFloat("#height");
+	        
+	        jsConsole.writeLine("Trapezoid's area is: " + (sideA + sideB) * height / 2);
+	    }
+	</script>
+</body>
+</html>

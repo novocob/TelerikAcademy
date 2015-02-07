@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Operators-Expresions - Task06</title>
+    <!-- Write an expression that checks if given 
+        point (x,  y) is within a circle K(O, 5).-->
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console">
+        <label for="x">Enter X : </label>
+        <input type="text" id="x" />
+        <br />
+        <label for="y">Enter Y : </label>
+        <input type="text" id="y" />
+        <br />
+        <input type="button" id="checkNumber" value="Check" onclick="checkPoint()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function checkPoint() {
+	        var x = jsConsole.readFloat("#x");
+	        var y = jsConsole.readFloat("#y");
+	        var distance = Math.sqrt(x * x + y * y);
+	        if (distance <= 5) {
+	            jsConsole.writeLine("The point ("+ x +"," + y +") is within the circle K(0,5).");
+	        }
+	        else {
+	            jsConsole.writeLine("The point (" + x + "," + y + ") is out of the circle K(0,5).");
+	        }
+	    }
+	</script>
+</body>
+</html>

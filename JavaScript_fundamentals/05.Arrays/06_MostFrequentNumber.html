@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Arrays-Task06</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <!--Write a program that finds the most frequent number in an array-->
+</head>
+<body>
+    <div id="js-console">
+        <label for="array">Enter some numbers separated by spaces:</label>
+        <input type="text" id="array" />
+        <br/>
+        <button id="button" value="findNum" onclick="findNumber()">Find most frequent number</button>
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function findNumber() {
+            //enter and parse the array
+            var userInput = jsConsole.read("#array");
+            var arr = userInput.split(' ');
+            for (var i = 0; i < arr.length; i++) {
+                arr[i] = parseFloat(arr[i]);
+            }
+
+            //sort array in increasing order
+            function orderBy(a, b) {
+                return a - b;
+            }
+            arr.sort(orderBy);
+
+            //search the maximal sequence of equal elements 
+            var counter = 1;
+            var maxSequence = 0;
+            var maxSeqIndex = 0;
+            for (var i = 0; i < arr.length; i++) {
+                if (arr[i] === arr[i + 1]) {
+                    counter++;
+                }
+                else {
+                    if (counter > maxSequence) {
+                        maxSequence = counter;
+                        maxSeqIndex = i;
+                    }
+                    counter = 1;
+                }
+            }
+
+            //print the result
+            jsConsole.writeLine('The most frequent number is: ' + arr[maxSeqIndex] + '(' + maxSequence + ' times)');
+        }
+
+        
+    </script>
+</body>
+</html>

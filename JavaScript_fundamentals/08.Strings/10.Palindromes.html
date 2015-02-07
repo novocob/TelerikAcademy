@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Strings-Task10</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".
+-->
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        var text = 'Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".';
+        var arrayOfStrings = text.replace(/^[\s,.!?+(-)]+|[\s,.!?+(-)]+$/g, "").split(/[\s,.!?+(-)]+/);
+        var i;
+        for (i = 0; i < arrayOfStrings.length; i++)
+        {
+            str = arrayOfStrings[i];
+            var IsPalindrom = false;
+            var j;
+            for (j = 0; j < str.length / 2; j++)
+            {
+                if (str[j] == str[str.length - 1 - j])
+                {
+                    IsPalindrom = true;
+                }
+                else
+                {
+                    IsPalindrom = false;
+                    break;
+                }
+            }
+            if (IsPalindrom == true && str.length > 1)
+            {
+                jsConsole.writeLine(str);
+            }
+        }
+    </script>
+</body>
+</html>

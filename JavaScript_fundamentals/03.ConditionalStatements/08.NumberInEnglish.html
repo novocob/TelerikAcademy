@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+        <title>Conditional Statements - Task 08</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Write a script that converts a number in the range [0...999] 
+        to a text corresponding to its English pronunciation. -->
+</head>
+<body>
+    <div id="js-console">
+        <label for="number">Number in the range [0...999]</label>
+        <input type="text" id="number"  />
+        <input type="button" id="translate" value="Translate" onclick="translateNumber()" />
+    </div>
+    <script src="scripts/js-console.js"></script>
+	<script>
+	    function translateNumber() {
+	        var number = jsConsole.read("#number");
+	        var codeRead = 0;
+	        var counter = 0;
+	        var digits = new Array(3);
+
+	        //Въвежда в масив цифрите от конзолата
+	        digits[0] = number[0];
+	        digits[1] = number[1];
+	        digits[2] = number[2];
+	       
+	        //Преподрежда стойностите в масива, в случай, че е въведено
+	        //едноцифрено или двуцифрено число
+	        if (number.length == 2)
+	        {
+	            digits[2] = digits[1];
+	            digits[1] = digits[0];
+	            digits[0] = ' ';
+	        }
+
+	        if (number.length == 1)
+	        {
+	            digits[2] = digits[0];
+	            digits[1] = ' ';
+	            digits[0] = ' ';
+	        }
+
+	        //Отпечатва стотиците
+	        switch (digits[0])
+	        {
+	            case '1': jsConsole.write("one hundred "); break;
+	            case '2': jsConsole.write("two hundred "); break;
+	            case '3': jsConsole.write("three hundred "); break;
+	            case '4': jsConsole.write("four hundred "); break;
+	            case '5': jsConsole.write("five hundred "); break;
+	            case '6': jsConsole.write("six hundred "); break;
+	            case '7': jsConsole.write("seven hundred "); break;
+	            case '8': jsConsole.write("eight hundred "); break;
+	            case '9': jsConsole.write("nine hundred "); break;
+	        }
+
+	        //Проверка дали има нужда от "and" 
+	        if ((digits[0] != ' ') && ((digits[1] != '0') || (digits[2] != '0')))
+	        {
+	            jsConsole.write("and ");
+	        }
+
+	        //Ако десетицата е 1 е частен случай, затова използвам if else
+	        if (digits[1] == '1')
+	        {
+	            switch (digits[2])
+	            {
+	                case '0': jsConsole.write("ten"); break;
+	                case '1': jsConsole.write("eleven"); break;
+	                case '2': jsConsole.write("twelve"); break;
+	                case '3': jsConsole.write("thirteen"); break;
+	                case '4': jsConsole.write("fourteen"); break;
+	                case '5': jsConsole.write("fifteen"); break;
+	                case '6': jsConsole.write("sixteen"); break;
+	                case '7': jsConsole.write("seventeen"); break;
+	                case '8': jsConsole.write("eighteen"); break;
+	                case '9': jsConsole.write("nineteen"); break;
+	            }
+	        }
+	        else
+	        {
+	            //отпечатва десетиците
+	            switch (digits[1])
+	            {
+	                case '2': jsConsole.write("twenty "); break;
+	                case '3': jsConsole.write("thirty "); break;
+	                case '4': jsConsole.write("fourty "); break;
+	                case '5': jsConsole.write("fifty "); break;
+	                case '6': jsConsole.write("sixty "); break;
+	                case '7': jsConsole.write("seventy "); break;
+	                case '8': jsConsole.write("eighty "); break;
+	                case '9': jsConsole.write("ninety "); break;
+	            }
+	            //отпечатва единиците
+	            switch (digits[2])
+	            {
+	                case '1': jsConsole.write("one"); break;
+	                case '2': jsConsole.write("two"); break;
+	                case '3': jsConsole.write("three"); break;
+	                case '4': jsConsole.write("four"); break;
+	                case '5': jsConsole.write("five"); break;
+	                case '6': jsConsole.write("six"); break;
+	                case '7': jsConsole.write("seven"); break;
+	                case '8': jsConsole.write("eight"); break;
+	                case '9': jsConsole.write("nine"); break;
+	            }
+	        }
+	        //проверка за "zero"
+	        if ((digits[0] == ' ') && (digits[1] == ' ') &&(digits[2] == '0'))
+	        {
+	            jsConsole.write("zero");
+	        }
+	        jsConsole.writeLine();
+	    }
+    </script>
+</body>
+</html>

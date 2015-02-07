@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Arrays-Task02</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <!--Write a script that compares two char arrays 
+        lexicographically (letter by letter).-->
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        var firstArr = ['c', 'b', 'g'];
+        var secondArr = ['a', 'b'];
+        jsConsole.writeLine('First array: ' + firstArr.join(' '));
+        jsConsole.writeLine('Second array: ' + secondArr.join(' '));
+
+        var length = Math.min(firstArr.length, secondArr.length);
+        var equal = true;
+        for (var i = 0; i < length && equal==true; i++) {
+            if (firstArr[i] < secondArr[i]) {
+                jsConsole.writeLine('First array is lexicographically before the second array');
+                equal = false;
+            }
+            else if (firstArr[i] > secondArr[i]) {
+                jsConsole.writeLine('Second array is lexicographically before the first array');
+                equal = false;
+            }
+        }
+        if (equal == true) {
+            if (firstArr.length > secondArr.length){
+                jsConsole.writeLine('Second array is lexicographically before the first array');
+            }
+            else if (firstArr.length < secondArr.length) {
+                jsConsole.writeLine('First array is lexicographically before the second array');
+            }
+            else {
+                jsConsole.writeLine('The arrays are lexicographically equal');
+            }
+        }
+    </script>
+</body>
+</html>

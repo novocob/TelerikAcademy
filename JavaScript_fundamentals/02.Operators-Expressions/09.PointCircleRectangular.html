@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Operators-Expresions - Task09</title>
+    <!-- Write an expression that checks for given point (x, y)
+         if it is within the circle K( (1,1), 3) and out 
+        of the rectangle R(top=1, left=-1, width=6, height=2).-->
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console">
+        <label for="x">X : </label>
+        <input type="text" id="x" />
+        <br />
+        <label for="y">Y : </label>
+        <input type="text" id="y" />
+        <br />
+        <input type="button" id="checkPoint" value="Check" onclick="checkPoint()"/>
+    </div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	    function checkPoint() {
+	        var x = jsConsole.readFloat("#x");
+	        var y = jsConsole.readFloat("#y");
+
+	        // Check if point is within the circle
+	        var deltaX = Math.abs(x-1);
+	        var deltaY = Math.abs(y-1);
+	        var distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY);
+	        var isWithinCircle = (distance <= 3);
+
+	        // Check if point is out of rectangle
+	        var isOutOfRectangle = ((x < -1) || (x > 5) || (y < -1) || (y > 1));
+
+	        // Final check
+	        var finalCheck = (isWithinCircle && isOutOfRectangle);
+
+	        jsConsole.writeLine("The point is within circle and out of rectangle : " + finalCheck);
+	    }
+	</script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Strings-Task06</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <!--Write a function that extracts the content of a html page given as text. 
+        The function should return anything that is in a tag, without the tags:
+
+        <html>
+        <head><title>Sample site</title></head>
+        <body><div>text<div>more text</div>and more...</div>in body</body>
+        </html>
+
+        result:
+        Sample sitetextmore textand more...in body-->
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        var htmlText = '<html><head><title>Sample site</title></head>' +
+        '<body><div>text<div>more text</div>and more...</div>in body</body></html>';
+
+        var extractedText = '';
+        var startIndex;
+        var endIndex;
+        var currentPos = 0;
+        while (currentPos < htmlText.length) {
+            startIndex = htmlText.indexOf('>', currentPos);
+            endIndex = htmlText.indexOf('<', currentPos + 1);
+
+            if (endIndex - startIndex > 1) {
+                extractedText += htmlText.substring(startIndex + 1, endIndex);
+                currentPos = endIndex;
+            }
+            else {
+                currentPos++;
+            }
+        }
+        
+        jsConsole.writeLine('Output text: ');
+        jsConsole.writeLine(extractedText);
+    </script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Strings-Task07</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <!-- Write a script that parses an URL address given in the format:
+        [protocol]://[server]/[resource]
+        and extracts from it the [protocol], [server] and [resource] elements. 
+        Return the elements in a JSON object.
+        For example from the URL http://www.devbg.org/forum/index.php the following information should be extracted:
+        {protocol: 'http', 
+            server: 'www.devbg.org', 
+            resource: '/forum/index.php'}
+-->
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        var input = 'http://www.devbg.org/forum/index.php';
+        var jasonObj;
+        var i = 0;
+        var protocol;
+        var server;
+        var resource;
+        var index;
+
+        index = input.indexOf("://", i);
+        if(index != -1)
+        {
+            protocol = input.substring(i, index);
+            i += index + 3;
+        }
+        index = input.indexOf("/", i);
+        if(index != -1)
+        {
+            server = input.substring(i, index);
+            i += index;
+        }
+        resource = input.substring(index);
+
+        jasonObj = {
+            protocol: protocol,
+            server: server,
+            resource: resource,
+            toString: function (){
+                return '{protocol: "' + protocol + '",<br/>server: "' + server + '",<br/>resource: "' + resource + '"}';
+            }
+        }
+
+        jsConsole.writeLine(jasonObj);
+    </script>
+</body>
+</html>

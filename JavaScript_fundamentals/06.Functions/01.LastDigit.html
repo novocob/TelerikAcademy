@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Functions-Task01</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <!--Write a function that returns the last digit of given integer as an English word.-->
+</head>
+<body>
+    <div id="js-console">
+        <label for="number">Enter an integer number: </label>
+        <input type="text" id="number" />
+        <br />
+        <button id="button" value="LastDigit" onclick="mainFunction()">Last digit as a word</button>
+    </div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function mainFunction() {
+            var number = jsConsole.read("#number");
+            jsConsole.writeLine('Last digit as a word is: ' + lastDigitAsWord(number));
+
+            function lastDigitAsWord(num) {
+                var lastDigit = Math.abs(num) % 10;
+                switch (lastDigit) {
+                    case 0: return 'zero';
+                    case 1: return 'one'; 
+                    case 2: return 'two';
+                    case 3: return 'three'; 
+                    case 4: return 'four'; 
+                    case 5: return 'five'; 
+                    case 6: return 'six'; 
+                    case 7: return 'seven'; 
+                    case 8: return 'eight'; 
+                    case 9: return 'nine'; 
+                    default: return;
+                }
+            }
+        }
+    </script>
+</body>
+</html>
